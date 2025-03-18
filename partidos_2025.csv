@@ -1,0 +1,935 @@
+Fecha,Liga,Equipo Local,Equipo Visitante,Estado,Goles Local,Goles Visitante
+2025-01-01 17:30:00,Premier League,Brentford FC,Arsenal FC,FINISHED,1.0,3.0
+2025-01-04 12:30:00,Premier League,Tottenham Hotspur FC,Newcastle United FC,FINISHED,1.0,2.0
+2025-01-04 15:00:00,Premier League,Southampton FC,Brentford FC,FINISHED,0.0,5.0
+2025-01-04 15:00:00,Premier League,Crystal Palace FC,Chelsea FC,FINISHED,1.0,1.0
+2025-01-04 15:00:00,Premier League,AFC Bournemouth,Everton FC,FINISHED,1.0,0.0
+2025-01-04 15:00:00,Premier League,Aston Villa FC,Leicester City FC,FINISHED,2.0,1.0
+2025-01-04 15:00:00,Premier League,Manchester City FC,West Ham United FC,FINISHED,4.0,1.0
+2025-01-04 17:30:00,Premier League,Brighton & Hove Albion FC,Arsenal FC,FINISHED,1.0,1.0
+2025-01-05 14:00:00,Premier League,Fulham FC,Ipswich Town FC,FINISHED,2.0,2.0
+2025-01-05 16:30:00,Premier League,Liverpool FC,Manchester United FC,FINISHED,2.0,2.0
+2025-01-06 20:00:00,Premier League,Wolverhampton Wanderers FC,Nottingham Forest FC,FINISHED,0.0,3.0
+2025-01-14 19:30:00,Premier League,West Ham United FC,Fulham FC,FINISHED,3.0,2.0
+2025-01-14 19:30:00,Premier League,Brentford FC,Manchester City FC,FINISHED,2.0,2.0
+2025-01-14 19:30:00,Premier League,Chelsea FC,AFC Bournemouth,FINISHED,2.0,2.0
+2025-01-14 20:00:00,Premier League,Nottingham Forest FC,Liverpool FC,FINISHED,1.0,1.0
+2025-01-15 19:30:00,Premier League,Everton FC,Aston Villa FC,FINISHED,0.0,1.0
+2025-01-15 19:30:00,Premier League,Leicester City FC,Crystal Palace FC,FINISHED,0.0,2.0
+2025-01-15 19:30:00,Premier League,Newcastle United FC,Wolverhampton Wanderers FC,FINISHED,3.0,0.0
+2025-01-15 20:00:00,Premier League,Arsenal FC,Tottenham Hotspur FC,FINISHED,2.0,1.0
+2025-01-16 19:30:00,Premier League,Ipswich Town FC,Brighton & Hove Albion FC,FINISHED,0.0,2.0
+2025-01-16 20:00:00,Premier League,Manchester United FC,Southampton FC,FINISHED,3.0,1.0
+2025-01-18 12:30:00,Premier League,Newcastle United FC,AFC Bournemouth,FINISHED,1.0,4.0
+2025-01-18 15:00:00,Premier League,West Ham United FC,Crystal Palace FC,FINISHED,0.0,2.0
+2025-01-18 15:00:00,Premier League,Leicester City FC,Fulham FC,FINISHED,0.0,2.0
+2025-01-18 15:00:00,Premier League,Brentford FC,Liverpool FC,FINISHED,0.0,2.0
+2025-01-18 17:30:00,Premier League,Arsenal FC,Aston Villa FC,FINISHED,2.0,2.0
+2025-01-19 14:00:00,Premier League,Manchester United FC,Brighton & Hove Albion FC,FINISHED,1.0,3.0
+2025-01-19 14:00:00,Premier League,Nottingham Forest FC,Southampton FC,FINISHED,3.0,2.0
+2025-01-19 14:00:00,Premier League,Everton FC,Tottenham Hotspur FC,FINISHED,3.0,2.0
+2025-01-19 16:30:00,Premier League,Ipswich Town FC,Manchester City FC,FINISHED,0.0,6.0
+2025-01-20 20:00:00,Premier League,Chelsea FC,Wolverhampton Wanderers FC,FINISHED,3.0,1.0
+2025-01-25 15:00:00,Premier League,Liverpool FC,Ipswich Town FC,FINISHED,4.0,1.0
+2025-01-25 15:00:00,Premier League,Wolverhampton Wanderers FC,Arsenal FC,FINISHED,0.0,1.0
+2025-01-25 15:00:00,Premier League,Brighton & Hove Albion FC,Everton FC,FINISHED,0.0,1.0
+2025-01-25 15:00:00,Premier League,Southampton FC,Newcastle United FC,FINISHED,1.0,3.0
+2025-01-25 15:00:00,Premier League,AFC Bournemouth,Nottingham Forest FC,FINISHED,5.0,0.0
+2025-01-25 17:30:00,Premier League,Manchester City FC,Chelsea FC,FINISHED,3.0,1.0
+2025-01-26 14:00:00,Premier League,Crystal Palace FC,Brentford FC,FINISHED,1.0,2.0
+2025-01-26 14:00:00,Premier League,Tottenham Hotspur FC,Leicester City FC,FINISHED,1.0,2.0
+2025-01-26 16:30:00,Premier League,Aston Villa FC,West Ham United FC,FINISHED,1.0,1.0
+2025-01-26 19:00:00,Premier League,Fulham FC,Manchester United FC,FINISHED,0.0,1.0
+2025-02-01 12:30:00,Premier League,Nottingham Forest FC,Brighton & Hove Albion FC,FINISHED,7.0,0.0
+2025-02-01 15:00:00,Premier League,Newcastle United FC,Fulham FC,FINISHED,1.0,2.0
+2025-02-01 15:00:00,Premier League,Everton FC,Leicester City FC,FINISHED,4.0,0.0
+2025-02-01 15:00:00,Premier League,AFC Bournemouth,Liverpool FC,FINISHED,0.0,2.0
+2025-02-01 15:00:00,Premier League,Ipswich Town FC,Southampton FC,FINISHED,1.0,2.0
+2025-02-01 17:30:00,Premier League,Wolverhampton Wanderers FC,Aston Villa FC,FINISHED,2.0,0.0
+2025-02-02 14:00:00,Premier League,Manchester United FC,Crystal Palace FC,FINISHED,0.0,2.0
+2025-02-02 14:00:00,Premier League,Brentford FC,Tottenham Hotspur FC,FINISHED,0.0,2.0
+2025-02-02 16:30:00,Premier League,Arsenal FC,Manchester City FC,FINISHED,5.0,1.0
+2025-02-03 20:00:00,Premier League,Chelsea FC,West Ham United FC,FINISHED,2.0,1.0
+2025-02-12 19:30:00,Premier League,Everton FC,Liverpool FC,FINISHED,2.0,2.0
+2025-02-14 20:00:00,Premier League,Brighton & Hove Albion FC,Chelsea FC,FINISHED,3.0,0.0
+2025-02-15 12:30:00,Premier League,Leicester City FC,Arsenal FC,FINISHED,0.0,2.0
+2025-02-15 15:00:00,Premier League,Southampton FC,AFC Bournemouth,FINISHED,1.0,3.0
+2025-02-15 15:00:00,Premier League,West Ham United FC,Brentford FC,FINISHED,0.0,1.0
+2025-02-15 15:00:00,Premier League,Aston Villa FC,Ipswich Town FC,FINISHED,1.0,1.0
+2025-02-15 15:00:00,Premier League,Manchester City FC,Newcastle United FC,FINISHED,4.0,0.0
+2025-02-15 15:00:00,Premier League,Fulham FC,Nottingham Forest FC,FINISHED,2.0,1.0
+2025-02-15 17:30:00,Premier League,Crystal Palace FC,Everton FC,FINISHED,1.0,2.0
+2025-02-16 14:00:00,Premier League,Liverpool FC,Wolverhampton Wanderers FC,FINISHED,2.0,1.0
+2025-02-16 16:30:00,Premier League,Tottenham Hotspur FC,Manchester United FC,FINISHED,1.0,0.0
+2025-02-19 19:30:00,Premier League,Aston Villa FC,Liverpool FC,FINISHED,2.0,2.0
+2025-02-21 20:00:00,Premier League,Leicester City FC,Brentford FC,FINISHED,0.0,4.0
+2025-02-22 12:30:00,Premier League,Everton FC,Manchester United FC,FINISHED,2.0,2.0
+2025-02-22 15:00:00,Premier League,Ipswich Town FC,Tottenham Hotspur FC,FINISHED,1.0,4.0
+2025-02-22 15:00:00,Premier League,Fulham FC,Crystal Palace FC,FINISHED,0.0,2.0
+2025-02-22 15:00:00,Premier League,Arsenal FC,West Ham United FC,FINISHED,0.0,1.0
+2025-02-22 15:00:00,Premier League,AFC Bournemouth,Wolverhampton Wanderers FC,FINISHED,0.0,1.0
+2025-02-22 15:00:00,Premier League,Southampton FC,Brighton & Hove Albion FC,FINISHED,0.0,4.0
+2025-02-22 17:30:00,Premier League,Aston Villa FC,Chelsea FC,FINISHED,2.0,1.0
+2025-02-23 14:00:00,Premier League,Newcastle United FC,Nottingham Forest FC,FINISHED,4.0,3.0
+2025-02-23 16:30:00,Premier League,Manchester City FC,Liverpool FC,FINISHED,0.0,2.0
+2025-02-25 19:30:00,Premier League,Brighton & Hove Albion FC,AFC Bournemouth,FINISHED,2.0,1.0
+2025-02-25 19:30:00,Premier League,Crystal Palace FC,Aston Villa FC,FINISHED,4.0,1.0
+2025-02-25 19:30:00,Premier League,Wolverhampton Wanderers FC,Fulham FC,FINISHED,1.0,2.0
+2025-02-25 20:15:00,Premier League,Chelsea FC,Southampton FC,FINISHED,4.0,0.0
+2025-02-26 19:30:00,Premier League,Nottingham Forest FC,Arsenal FC,FINISHED,0.0,0.0
+2025-02-26 19:30:00,Premier League,Brentford FC,Everton FC,FINISHED,1.0,1.0
+2025-02-26 19:30:00,Premier League,Tottenham Hotspur FC,Manchester City FC,FINISHED,0.0,1.0
+2025-02-26 19:30:00,Premier League,Manchester United FC,Ipswich Town FC,FINISHED,3.0,2.0
+2025-02-26 20:15:00,Premier League,Liverpool FC,Newcastle United FC,FINISHED,2.0,0.0
+2025-02-27 20:00:00,Premier League,West Ham United FC,Leicester City FC,FINISHED,2.0,0.0
+2025-03-08 12:30:00,Premier League,Nottingham Forest FC,Manchester City FC,FINISHED,1.0,0.0
+2025-03-08 15:00:00,Premier League,Brighton & Hove Albion FC,Fulham FC,FINISHED,2.0,1.0
+2025-03-08 15:00:00,Premier League,Crystal Palace FC,Ipswich Town FC,FINISHED,1.0,0.0
+2025-03-08 15:00:00,Premier League,Liverpool FC,Southampton FC,FINISHED,3.0,1.0
+2025-03-08 17:30:00,Premier League,Brentford FC,Aston Villa FC,FINISHED,0.0,1.0
+2025-03-08 20:00:00,Premier League,Wolverhampton Wanderers FC,Everton FC,FINISHED,1.0,1.0
+2025-03-09 14:00:00,Premier League,Tottenham Hotspur FC,AFC Bournemouth,FINISHED,2.0,2.0
+2025-03-09 14:00:00,Premier League,Chelsea FC,Leicester City FC,FINISHED,1.0,0.0
+2025-03-09 16:30:00,Premier League,Manchester United FC,Arsenal FC,FINISHED,1.0,1.0
+2025-03-10 20:00:00,Premier League,West Ham United FC,Newcastle United FC,FINISHED,0.0,1.0
+2025-03-15 15:00:00,Premier League,Everton FC,West Ham United FC,FINISHED,1.0,1.0
+2025-03-15 15:00:00,Premier League,Ipswich Town FC,Nottingham Forest FC,FINISHED,2.0,4.0
+2025-03-15 15:00:00,Premier League,Manchester City FC,Brighton & Hove Albion FC,FINISHED,2.0,2.0
+2025-03-15 15:00:00,Premier League,Southampton FC,Wolverhampton Wanderers FC,FINISHED,1.0,2.0
+2025-03-15 17:30:00,Premier League,AFC Bournemouth,Brentford FC,FINISHED,1.0,2.0
+2025-03-16 13:30:00,Premier League,Arsenal FC,Chelsea FC,FINISHED,1.0,0.0
+2025-03-16 13:30:00,Premier League,Fulham FC,Tottenham Hotspur FC,FINISHED,2.0,0.0
+2025-03-16 19:00:00,Premier League,Leicester City FC,Manchester United FC,FINISHED,0.0,3.0
+2025-04-01 18:45:00,Premier League,Arsenal FC,Fulham FC,TIMED,,
+2025-04-01 18:45:00,Premier League,Wolverhampton Wanderers FC,West Ham United FC,TIMED,,
+2025-04-01 19:00:00,Premier League,Nottingham Forest FC,Manchester United FC,TIMED,,
+2025-04-02 18:45:00,Premier League,AFC Bournemouth,Ipswich Town FC,TIMED,,
+2025-04-02 18:45:00,Premier League,Brighton & Hove Albion FC,Aston Villa FC,TIMED,,
+2025-04-02 18:45:00,Premier League,Manchester City FC,Leicester City FC,TIMED,,
+2025-04-02 18:45:00,Premier League,Newcastle United FC,Brentford FC,TIMED,,
+2025-04-02 18:45:00,Premier League,Southampton FC,Crystal Palace FC,TIMED,,
+2025-04-02 19:00:00,Premier League,Liverpool FC,Everton FC,TIMED,,
+2025-04-03 19:00:00,Premier League,Chelsea FC,Tottenham Hotspur FC,TIMED,,
+2025-04-05 11:30:00,Premier League,Everton FC,Arsenal FC,TIMED,,
+2025-04-05 14:00:00,Premier League,Crystal Palace FC,Brighton & Hove Albion FC,TIMED,,
+2025-04-05 14:00:00,Premier League,Ipswich Town FC,Wolverhampton Wanderers FC,TIMED,,
+2025-04-05 14:00:00,Premier League,West Ham United FC,AFC Bournemouth,TIMED,,
+2025-04-05 16:30:00,Premier League,Aston Villa FC,Nottingham Forest FC,TIMED,,
+2025-04-06 13:00:00,Premier League,Brentford FC,Chelsea FC,TIMED,,
+2025-04-06 13:00:00,Premier League,Fulham FC,Liverpool FC,TIMED,,
+2025-04-06 13:00:00,Premier League,Tottenham Hotspur FC,Southampton FC,TIMED,,
+2025-04-06 15:30:00,Premier League,Manchester United FC,Manchester City FC,TIMED,,
+2025-04-07 19:00:00,Premier League,Leicester City FC,Newcastle United FC,TIMED,,
+2025-04-12 11:30:00,Premier League,Manchester City FC,Crystal Palace FC,TIMED,,
+2025-04-12 14:00:00,Premier League,Brighton & Hove Albion FC,Leicester City FC,TIMED,,
+2025-04-12 14:00:00,Premier League,Chelsea FC,Ipswich Town FC,TIMED,,
+2025-04-12 14:00:00,Premier League,Nottingham Forest FC,Everton FC,TIMED,,
+2025-04-12 14:00:00,Premier League,Southampton FC,Aston Villa FC,TIMED,,
+2025-04-12 14:00:00,Premier League,Wolverhampton Wanderers FC,Tottenham Hotspur FC,TIMED,,
+2025-04-12 16:30:00,Premier League,Arsenal FC,Brentford FC,TIMED,,
+2025-04-13 13:00:00,Premier League,Liverpool FC,West Ham United FC,TIMED,,
+2025-04-13 15:30:00,Premier League,Newcastle United FC,Manchester United FC,TIMED,,
+2025-04-14 19:00:00,Premier League,AFC Bournemouth,Fulham FC,TIMED,,
+2025-04-16 18:30:00,Premier League,Newcastle United FC,Crystal Palace FC,TIMED,,
+2025-04-19 14:00:00,Premier League,Brentford FC,Brighton & Hove Albion FC,TIMED,,
+2025-04-19 14:00:00,Premier League,Crystal Palace FC,AFC Bournemouth,TIMED,,
+2025-04-19 14:00:00,Premier League,Everton FC,Manchester City FC,TIMED,,
+2025-04-19 14:00:00,Premier League,Fulham FC,Chelsea FC,TIMED,,
+2025-04-19 14:00:00,Premier League,Manchester United FC,Wolverhampton Wanderers FC,TIMED,,
+2025-04-19 14:00:00,Premier League,West Ham United FC,Southampton FC,TIMED,,
+2025-04-19 16:30:00,Premier League,Aston Villa FC,Newcastle United FC,TIMED,,
+2025-04-20 13:00:00,Premier League,Ipswich Town FC,Arsenal FC,TIMED,,
+2025-04-20 15:30:00,Premier League,Leicester City FC,Liverpool FC,TIMED,,
+2025-04-21 19:00:00,Premier League,Tottenham Hotspur FC,Nottingham Forest FC,TIMED,,
+2025-04-26 11:30:00,Premier League,Chelsea FC,Everton FC,TIMED,,
+2025-04-26 14:00:00,Premier League,Brighton & Hove Albion FC,West Ham United FC,TIMED,,
+2025-04-26 14:00:00,Premier League,Newcastle United FC,Ipswich Town FC,TIMED,,
+2025-04-26 14:00:00,Premier League,Nottingham Forest FC,Brentford FC,TIMED,,
+2025-04-26 14:00:00,Premier League,Southampton FC,Fulham FC,TIMED,,
+2025-04-26 14:00:00,Premier League,Wolverhampton Wanderers FC,Leicester City FC,TIMED,,
+2025-04-26 16:30:00,Premier League,Arsenal FC,Crystal Palace FC,TIMED,,
+2025-04-27 13:00:00,Premier League,AFC Bournemouth,Manchester United FC,TIMED,,
+2025-04-27 15:30:00,Premier League,Liverpool FC,Tottenham Hotspur FC,TIMED,,
+2025-04-28 19:00:00,Premier League,Manchester City FC,Aston Villa FC,TIMED,,
+2025-05-03 00:00:00,Premier League,Arsenal FC,AFC Bournemouth,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Aston Villa FC,Fulham FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Brentford FC,Manchester United FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Brighton & Hove Albion FC,Newcastle United FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Chelsea FC,Liverpool FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Crystal Palace FC,Nottingham Forest FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Everton FC,Ipswich Town FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Leicester City FC,Southampton FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,Manchester City FC,Wolverhampton Wanderers FC,SCHEDULED,,
+2025-05-03 00:00:00,Premier League,West Ham United FC,Tottenham Hotspur FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,AFC Bournemouth,Aston Villa FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Fulham FC,Everton FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Ipswich Town FC,Brentford FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Liverpool FC,Arsenal FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Manchester United FC,West Ham United FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Newcastle United FC,Chelsea FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Nottingham Forest FC,Leicester City FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Southampton FC,Manchester City FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Tottenham Hotspur FC,Crystal Palace FC,SCHEDULED,,
+2025-05-10 00:00:00,Premier League,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Arsenal FC,Newcastle United FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Aston Villa FC,Tottenham Hotspur FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Brentford FC,Fulham FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Brighton & Hove Albion FC,Liverpool FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Chelsea FC,Manchester United FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Crystal Palace FC,Wolverhampton Wanderers FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Everton FC,Southampton FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Leicester City FC,Ipswich Town FC,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,Manchester City FC,AFC Bournemouth,SCHEDULED,,
+2025-05-18 00:00:00,Premier League,West Ham United FC,Nottingham Forest FC,SCHEDULED,,
+2025-05-25 15:00:00,Premier League,AFC Bournemouth,Leicester City FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Fulham FC,Manchester City FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Ipswich Town FC,West Ham United FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Liverpool FC,Crystal Palace FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Manchester United FC,Aston Villa FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Newcastle United FC,Everton FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Nottingham Forest FC,Chelsea FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Southampton FC,Arsenal FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Tottenham Hotspur FC,Brighton & Hove Albion FC,TIMED,,
+2025-05-25 15:00:00,Premier League,Wolverhampton Wanderers FC,Brentford FC,TIMED,,
+2025-01-03 20:00:00,Primera Division,Valencia CF,Real Madrid CF,FINISHED,1.0,2.0
+2025-01-10 20:00:00,Primera Division,Rayo Vallecano de Madrid,RC Celta de Vigo,FINISHED,2.0,1.0
+2025-01-11 13:00:00,Primera Division,Deportivo Alavés,Girona FC,FINISHED,0.0,1.0
+2025-01-11 15:15:00,Primera Division,Real Valladolid CF,Real Betis Balompié,FINISHED,1.0,0.0
+2025-01-11 17:30:00,Primera Division,RCD Espanyol de Barcelona,CD Leganés,FINISHED,1.0,1.0
+2025-01-11 20:00:00,Primera Division,Sevilla FC,Valencia CF,FINISHED,1.0,1.0
+2025-01-12 13:00:00,Primera Division,UD Las Palmas,Getafe CF,FINISHED,1.0,2.0
+2025-01-12 15:15:00,Primera Division,Club Atlético de Madrid,CA Osasuna,FINISHED,1.0,0.0
+2025-01-13 20:00:00,Primera Division,Real Sociedad de Fútbol,Villarreal CF,FINISHED,1.0,0.0
+2025-01-17 20:00:00,Primera Division,RCD Espanyol de Barcelona,Real Valladolid CF,FINISHED,2.0,1.0
+2025-01-18 13:00:00,Primera Division,Girona FC,Sevilla FC,FINISHED,1.0,2.0
+2025-01-18 15:15:00,Primera Division,CD Leganés,Club Atlético de Madrid,FINISHED,1.0,0.0
+2025-01-18 17:30:00,Primera Division,Real Betis Balompié,Deportivo Alavés,FINISHED,1.0,3.0
+2025-01-18 20:00:00,Primera Division,Getafe CF,FC Barcelona,FINISHED,1.0,1.0
+2025-01-19 13:00:00,Primera Division,RC Celta de Vigo,Athletic Club,FINISHED,1.0,2.0
+2025-01-19 15:15:00,Primera Division,Real Madrid CF,UD Las Palmas,FINISHED,4.0,1.0
+2025-01-19 17:30:00,Primera Division,CA Osasuna,Rayo Vallecano de Madrid,FINISHED,1.0,1.0
+2025-01-19 20:00:00,Primera Division,Valencia CF,Real Sociedad de Fútbol,FINISHED,1.0,0.0
+2025-01-20 20:00:00,Primera Division,Villarreal CF,RCD Mallorca,FINISHED,4.0,0.0
+2025-01-24 20:00:00,Primera Division,UD Las Palmas,CA Osasuna,FINISHED,1.0,1.0
+2025-01-25 13:00:00,Primera Division,RCD Mallorca,Real Betis Balompié,FINISHED,0.0,1.0
+2025-01-25 15:15:00,Primera Division,Club Atlético de Madrid,Villarreal CF,FINISHED,1.0,1.0
+2025-01-25 17:30:00,Primera Division,Sevilla FC,RCD Espanyol de Barcelona,FINISHED,1.0,1.0
+2025-01-25 20:00:00,Primera Division,Real Valladolid CF,Real Madrid CF,FINISHED,0.0,3.0
+2025-01-26 13:00:00,Primera Division,Rayo Vallecano de Madrid,Girona FC,FINISHED,2.0,1.0
+2025-01-26 15:15:00,Primera Division,Real Sociedad de Fútbol,Getafe CF,FINISHED,0.0,3.0
+2025-01-26 17:30:00,Primera Division,Athletic Club,CD Leganés,FINISHED,0.0,0.0
+2025-01-26 20:00:00,Primera Division,FC Barcelona,Valencia CF,FINISHED,7.0,1.0
+2025-01-27 20:00:00,Primera Division,Deportivo Alavés,RC Celta de Vigo,FINISHED,1.0,1.0
+2025-01-31 20:00:00,Primera Division,CD Leganés,Rayo Vallecano de Madrid,FINISHED,0.0,1.0
+2025-02-01 13:00:00,Primera Division,Getafe CF,Sevilla FC,FINISHED,0.0,0.0
+2025-02-01 15:15:00,Primera Division,Villarreal CF,Real Valladolid CF,FINISHED,5.0,1.0
+2025-02-01 17:30:00,Primera Division,Club Atlético de Madrid,RCD Mallorca,FINISHED,2.0,0.0
+2025-02-01 20:00:00,Primera Division,RCD Espanyol de Barcelona,Real Madrid CF,FINISHED,1.0,0.0
+2025-02-02 13:00:00,Primera Division,FC Barcelona,Deportivo Alavés,FINISHED,1.0,0.0
+2025-02-02 15:15:00,Primera Division,Valencia CF,RC Celta de Vigo,FINISHED,2.0,1.0
+2025-02-02 17:30:00,Primera Division,CA Osasuna,Real Sociedad de Fútbol,FINISHED,2.0,1.0
+2025-02-02 20:00:00,Primera Division,Real Betis Balompié,Athletic Club,FINISHED,2.0,2.0
+2025-02-03 20:00:00,Primera Division,Girona FC,UD Las Palmas,FINISHED,2.0,1.0
+2025-02-07 20:00:00,Primera Division,Rayo Vallecano de Madrid,Real Valladolid CF,FINISHED,1.0,0.0
+2025-02-08 13:00:00,Primera Division,RC Celta de Vigo,Real Betis Balompié,FINISHED,3.0,2.0
+2025-02-08 15:15:00,Primera Division,Athletic Club,Girona FC,FINISHED,3.0,0.0
+2025-02-08 17:30:00,Primera Division,UD Las Palmas,Villarreal CF,FINISHED,1.0,2.0
+2025-02-08 20:00:00,Primera Division,Real Madrid CF,Club Atlético de Madrid,FINISHED,1.0,1.0
+2025-02-09 13:00:00,Primera Division,Deportivo Alavés,Getafe CF,FINISHED,0.0,1.0
+2025-02-09 15:15:00,Primera Division,Valencia CF,CD Leganés,FINISHED,2.0,0.0
+2025-02-09 17:30:00,Primera Division,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,FINISHED,2.0,1.0
+2025-02-09 20:00:00,Primera Division,Sevilla FC,FC Barcelona,FINISHED,1.0,4.0
+2025-02-10 20:00:00,Primera Division,RCD Mallorca,CA Osasuna,FINISHED,1.0,1.0
+2025-02-14 20:00:00,Primera Division,Girona FC,Getafe CF,FINISHED,1.0,2.0
+2025-02-15 13:00:00,Primera Division,CD Leganés,Deportivo Alavés,FINISHED,3.0,3.0
+2025-02-15 15:15:00,Primera Division,CA Osasuna,Real Madrid CF,FINISHED,1.0,1.0
+2025-02-15 17:30:00,Primera Division,Club Atlético de Madrid,RC Celta de Vigo,FINISHED,1.0,1.0
+2025-02-15 20:00:00,Primera Division,Villarreal CF,Valencia CF,FINISHED,1.0,1.0
+2025-02-16 13:00:00,Primera Division,RCD Espanyol de Barcelona,Athletic Club,FINISHED,1.0,1.0
+2025-02-16 15:15:00,Primera Division,Real Valladolid CF,Sevilla FC,FINISHED,0.0,4.0
+2025-02-16 17:30:00,Primera Division,RCD Mallorca,UD Las Palmas,FINISHED,3.0,1.0
+2025-02-16 20:00:00,Primera Division,Real Betis Balompié,Real Sociedad de Fútbol,FINISHED,3.0,0.0
+2025-02-17 20:00:00,Primera Division,FC Barcelona,Rayo Vallecano de Madrid,FINISHED,1.0,0.0
+2025-02-21 20:00:00,Primera Division,RC Celta de Vigo,CA Osasuna,FINISHED,1.0,0.0
+2025-02-22 13:00:00,Primera Division,Deportivo Alavés,RCD Espanyol de Barcelona,FINISHED,0.0,1.0
+2025-02-22 15:15:00,Primera Division,Rayo Vallecano de Madrid,Villarreal CF,FINISHED,0.0,1.0
+2025-02-22 17:30:00,Primera Division,Valencia CF,Club Atlético de Madrid,FINISHED,0.0,3.0
+2025-02-22 20:00:00,Primera Division,UD Las Palmas,FC Barcelona,FINISHED,0.0,2.0
+2025-02-23 13:00:00,Primera Division,Athletic Club,Real Valladolid CF,FINISHED,7.0,1.0
+2025-02-23 15:15:00,Primera Division,Real Madrid CF,Girona FC,FINISHED,2.0,0.0
+2025-02-23 17:30:00,Primera Division,Getafe CF,Real Betis Balompié,FINISHED,1.0,2.0
+2025-02-23 20:00:00,Primera Division,Real Sociedad de Fútbol,CD Leganés,FINISHED,3.0,0.0
+2025-02-24 20:00:00,Primera Division,Sevilla FC,RCD Mallorca,FINISHED,1.0,1.0
+2025-02-28 20:00:00,Primera Division,Real Valladolid CF,UD Las Palmas,FINISHED,1.0,1.0
+2025-03-01 13:00:00,Primera Division,Girona FC,RC Celta de Vigo,FINISHED,2.0,2.0
+2025-03-01 15:15:00,Primera Division,Rayo Vallecano de Madrid,Sevilla FC,FINISHED,1.0,1.0
+2025-03-01 17:30:00,Primera Division,Real Betis Balompié,Real Madrid CF,FINISHED,2.0,1.0
+2025-03-01 20:00:00,Primera Division,Club Atlético de Madrid,Athletic Club,FINISHED,1.0,0.0
+2025-03-02 13:00:00,Primera Division,CD Leganés,Getafe CF,FINISHED,1.0,0.0
+2025-03-02 15:15:00,Primera Division,FC Barcelona,Real Sociedad de Fútbol,FINISHED,4.0,0.0
+2025-03-02 17:30:00,Primera Division,RCD Mallorca,Deportivo Alavés,FINISHED,1.0,1.0
+2025-03-02 20:00:00,Primera Division,CA Osasuna,Valencia CF,FINISHED,3.0,3.0
+2025-03-08 13:00:00,Primera Division,RC Celta de Vigo,CD Leganés,FINISHED,2.0,1.0
+2025-03-08 15:15:00,Primera Division,Deportivo Alavés,Villarreal CF,FINISHED,1.0,0.0
+2025-03-08 17:30:00,Primera Division,Valencia CF,Real Valladolid CF,FINISHED,2.0,1.0
+2025-03-09 13:00:00,Primera Division,Getafe CF,Club Atlético de Madrid,FINISHED,2.0,1.0
+2025-03-09 15:15:00,Primera Division,Real Madrid CF,Rayo Vallecano de Madrid,FINISHED,2.0,1.0
+2025-03-09 17:30:00,Primera Division,Athletic Club,RCD Mallorca,FINISHED,1.0,1.0
+2025-03-09 17:30:00,Primera Division,Real Betis Balompié,UD Las Palmas,FINISHED,1.0,0.0
+2025-03-09 20:00:00,Primera Division,Real Sociedad de Fútbol,Sevilla FC,FINISHED,0.0,1.0
+2025-03-10 20:00:00,Primera Division,RCD Espanyol de Barcelona,Girona FC,FINISHED,1.0,1.0
+2025-03-14 20:00:00,Primera Division,UD Las Palmas,Deportivo Alavés,FINISHED,2.0,2.0
+2025-03-15 13:00:00,Primera Division,Real Valladolid CF,RC Celta de Vigo,FINISHED,0.0,1.0
+2025-03-15 15:15:00,Primera Division,RCD Mallorca,RCD Espanyol de Barcelona,FINISHED,2.0,1.0
+2025-03-15 17:30:00,Primera Division,Villarreal CF,Real Madrid CF,FINISHED,1.0,2.0
+2025-03-15 20:00:00,Primera Division,Girona FC,Valencia CF,FINISHED,1.0,1.0
+2025-03-16 13:00:00,Primera Division,CD Leganés,Real Betis Balompié,FINISHED,2.0,3.0
+2025-03-16 15:15:00,Primera Division,Sevilla FC,Athletic Club,FINISHED,0.0,1.0
+2025-03-16 17:30:00,Primera Division,CA Osasuna,Getafe CF,FINISHED,1.0,2.0
+2025-03-16 17:30:00,Primera Division,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,FINISHED,2.0,2.0
+2025-03-16 20:00:00,Primera Division,Club Atlético de Madrid,FC Barcelona,FINISHED,2.0,4.0
+2025-03-27 00:00:00,Primera Division,FC Barcelona,CA Osasuna,SCHEDULED,0.0,0.0
+2025-03-28 20:00:00,Primera Division,Athletic Club,CA Osasuna,TIMED,,
+2025-03-29 13:00:00,Primera Division,Real Sociedad de Fútbol,Real Valladolid CF,TIMED,,
+2025-03-29 15:15:00,Primera Division,RCD Espanyol de Barcelona,Club Atlético de Madrid,TIMED,,
+2025-03-29 17:30:00,Primera Division,Deportivo Alavés,Rayo Vallecano de Madrid,TIMED,,
+2025-03-29 20:00:00,Primera Division,Real Madrid CF,CD Leganés,TIMED,,
+2025-03-30 12:00:00,Primera Division,Getafe CF,Villarreal CF,TIMED,,
+2025-03-30 14:15:00,Primera Division,FC Barcelona,Girona FC,TIMED,,
+2025-03-30 16:30:00,Primera Division,Valencia CF,RCD Mallorca,TIMED,,
+2025-03-30 19:00:00,Primera Division,Real Betis Balompié,Sevilla FC,TIMED,,
+2025-03-31 19:00:00,Primera Division,RC Celta de Vigo,UD Las Palmas,TIMED,,
+2025-04-04 19:00:00,Primera Division,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,TIMED,,
+2025-04-05 12:00:00,Primera Division,Girona FC,Deportivo Alavés,TIMED,,
+2025-04-05 14:15:00,Primera Division,Real Madrid CF,Valencia CF,TIMED,,
+2025-04-05 16:30:00,Primera Division,RCD Mallorca,RC Celta de Vigo,TIMED,,
+2025-04-05 19:00:00,Primera Division,FC Barcelona,Real Betis Balompié,TIMED,,
+2025-04-06 12:00:00,Primera Division,UD Las Palmas,Real Sociedad de Fútbol,TIMED,,
+2025-04-06 14:15:00,Primera Division,Sevilla FC,Club Atlético de Madrid,TIMED,,
+2025-04-06 16:30:00,Primera Division,Real Valladolid CF,Getafe CF,TIMED,,
+2025-04-06 19:00:00,Primera Division,Villarreal CF,Athletic Club,TIMED,,
+2025-04-07 19:00:00,Primera Division,CD Leganés,CA Osasuna,TIMED,,
+2025-04-09 00:00:00,Primera Division,Villarreal CF,RCD Espanyol de Barcelona,SCHEDULED,0.0,0.0
+2025-04-13 00:00:00,Primera Division,Athletic Club,Rayo Vallecano de Madrid,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,Club Atlético de Madrid,Real Valladolid CF,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,Real Betis Balompié,Villarreal CF,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,CA Osasuna,Girona FC,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,CD Leganés,FC Barcelona,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,Deportivo Alavés,Real Madrid CF,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,Getafe CF,UD Las Palmas,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,Valencia CF,Sevilla FC,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,Real Sociedad de Fútbol,RCD Mallorca,SCHEDULED,,
+2025-04-13 00:00:00,Primera Division,RC Celta de Vigo,RCD Espanyol de Barcelona,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,FC Barcelona,RC Celta de Vigo,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,Girona FC,Real Betis Balompié,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,Sevilla FC,Deportivo Alavés,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,Villarreal CF,Real Sociedad de Fútbol,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,Rayo Vallecano de Madrid,Valencia CF,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,RCD Mallorca,CD Leganés,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,Real Madrid CF,Athletic Club,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,Real Valladolid CF,CA Osasuna,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,UD Las Palmas,Club Atlético de Madrid,SCHEDULED,,
+2025-04-20 00:00:00,Primera Division,RCD Espanyol de Barcelona,Getafe CF,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,Athletic Club,UD Las Palmas,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,Club Atlético de Madrid,Rayo Vallecano de Madrid,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,Real Betis Balompié,Real Valladolid CF,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,CA Osasuna,Sevilla FC,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,CD Leganés,Girona FC,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,RC Celta de Vigo,Villarreal CF,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,Deportivo Alavés,Real Sociedad de Fútbol,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,FC Barcelona,RCD Mallorca,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,Getafe CF,Real Madrid CF,SCHEDULED,,
+2025-04-23 00:00:00,Primera Division,Valencia CF,RCD Espanyol de Barcelona,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Girona FC,RCD Mallorca,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Sevilla FC,CD Leganés,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Villarreal CF,CA Osasuna,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Rayo Vallecano de Madrid,Getafe CF,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Real Madrid CF,RC Celta de Vigo,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Real Sociedad de Fútbol,Athletic Club,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Real Valladolid CF,FC Barcelona,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,UD Las Palmas,Valencia CF,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,RCD Espanyol de Barcelona,Real Betis Balompié,SCHEDULED,,
+2025-05-04 00:00:00,Primera Division,Deportivo Alavés,Club Atlético de Madrid,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,Athletic Club,Deportivo Alavés,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,Club Atlético de Madrid,Real Sociedad de Fútbol,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,Real Betis Balompié,CA Osasuna,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,RC Celta de Vigo,Sevilla FC,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,FC Barcelona,Real Madrid CF,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,Girona FC,Villarreal CF,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,Valencia CF,Getafe CF,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,RCD Mallorca,Real Valladolid CF,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,UD Las Palmas,Rayo Vallecano de Madrid,SCHEDULED,,
+2025-05-11 00:00:00,Primera Division,CD Leganés,RCD Espanyol de Barcelona,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,CA Osasuna,Club Atlético de Madrid,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Deportivo Alavés,Valencia CF,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Getafe CF,Athletic Club,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Sevilla FC,UD Las Palmas,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Villarreal CF,CD Leganés,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Rayo Vallecano de Madrid,Real Betis Balompié,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Real Madrid CF,RCD Mallorca,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,Real Valladolid CF,Girona FC,SCHEDULED,,
+2025-05-14 00:00:00,Primera Division,RCD Espanyol de Barcelona,FC Barcelona,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,Club Atlético de Madrid,Real Betis Balompié,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,RC Celta de Vigo,Rayo Vallecano de Madrid,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,FC Barcelona,Villarreal CF,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,Sevilla FC,Real Madrid CF,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,Valencia CF,Athletic Club,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,RCD Mallorca,Getafe CF,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,Real Sociedad de Fútbol,Girona FC,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,Real Valladolid CF,Deportivo Alavés,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,UD Las Palmas,CD Leganés,SCHEDULED,,
+2025-05-18 00:00:00,Primera Division,CA Osasuna,RCD Espanyol de Barcelona,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Athletic Club,FC Barcelona,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Real Betis Balompié,Valencia CF,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,CD Leganés,Real Valladolid CF,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Deportivo Alavés,CA Osasuna,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Getafe CF,RC Celta de Vigo,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Girona FC,Club Atlético de Madrid,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Villarreal CF,Sevilla FC,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Rayo Vallecano de Madrid,RCD Mallorca,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,Real Madrid CF,Real Sociedad de Fútbol,SCHEDULED,,
+2025-05-25 00:00:00,Primera Division,RCD Espanyol de Barcelona,UD Las Palmas,SCHEDULED,,
+2025-01-04 14:00:00,Serie A,Venezia FC,Empoli FC,FINISHED,1.0,1.0
+2025-01-04 17:00:00,Serie A,ACF Fiorentina,SSC Napoli,FINISHED,0.0,3.0
+2025-01-04 19:45:00,Serie A,Hellas Verona FC,Udinese Calcio,FINISHED,0.0,0.0
+2025-01-05 11:30:00,Serie A,AC Monza,Cagliari Calcio,FINISHED,1.0,2.0
+2025-01-05 14:00:00,Serie A,US Lecce,Genoa CFC,FINISHED,0.0,0.0
+2025-01-05 17:00:00,Serie A,Torino FC,Parma Calcio 1913,FINISHED,0.0,0.0
+2025-01-05 19:45:00,Serie A,AS Roma,SS Lazio,FINISHED,2.0,0.0
+2025-01-10 19:45:00,Serie A,SS Lazio,Como 1907,FINISHED,1.0,1.0
+2025-01-11 14:00:00,Serie A,Empoli FC,US Lecce,FINISHED,1.0,3.0
+2025-01-11 14:00:00,Serie A,Udinese Calcio,Atalanta BC,FINISHED,0.0,0.0
+2025-01-11 17:00:00,Serie A,Torino FC,Juventus FC,FINISHED,1.0,1.0
+2025-01-11 19:45:00,Serie A,AC Milan,Cagliari Calcio,FINISHED,1.0,1.0
+2025-01-12 11:30:00,Serie A,Genoa CFC,Parma Calcio 1913,FINISHED,1.0,0.0
+2025-01-12 14:00:00,Serie A,Venezia FC,FC Internazionale Milano,FINISHED,0.0,1.0
+2025-01-12 17:00:00,Serie A,Bologna FC 1909,AS Roma,FINISHED,2.0,2.0
+2025-01-12 19:45:00,Serie A,SSC Napoli,Hellas Verona FC,FINISHED,2.0,0.0
+2025-01-13 19:45:00,Serie A,AC Monza,ACF Fiorentina,FINISHED,2.0,1.0
+2025-01-14 17:30:00,Serie A,Como 1907,AC Milan,FINISHED,1.0,2.0
+2025-01-14 19:45:00,Serie A,Atalanta BC,Juventus FC,FINISHED,1.0,1.0
+2025-01-15 19:45:00,Serie A,FC Internazionale Milano,Bologna FC 1909,FINISHED,2.0,2.0
+2025-01-17 19:45:00,Serie A,AS Roma,Genoa CFC,FINISHED,3.0,1.0
+2025-01-18 14:00:00,Serie A,Bologna FC 1909,AC Monza,FINISHED,3.0,1.0
+2025-01-18 17:00:00,Serie A,Juventus FC,AC Milan,FINISHED,2.0,0.0
+2025-01-18 19:45:00,Serie A,Atalanta BC,SSC Napoli,FINISHED,2.0,3.0
+2025-01-19 11:30:00,Serie A,ACF Fiorentina,Torino FC,FINISHED,1.0,1.0
+2025-01-19 14:00:00,Serie A,Cagliari Calcio,US Lecce,FINISHED,4.0,1.0
+2025-01-19 14:00:00,Serie A,Parma Calcio 1913,Venezia FC,FINISHED,1.0,1.0
+2025-01-19 17:00:00,Serie A,Hellas Verona FC,SS Lazio,FINISHED,0.0,3.0
+2025-01-19 19:45:00,Serie A,FC Internazionale Milano,Empoli FC,FINISHED,3.0,1.0
+2025-01-20 19:45:00,Serie A,Como 1907,Udinese Calcio,FINISHED,4.0,1.0
+2025-01-24 19:45:00,Serie A,Torino FC,Cagliari Calcio,FINISHED,2.0,0.0
+2025-01-25 14:00:00,Serie A,Como 1907,Atalanta BC,FINISHED,1.0,2.0
+2025-01-25 17:00:00,Serie A,SSC Napoli,Juventus FC,FINISHED,2.0,1.0
+2025-01-25 19:45:00,Serie A,Empoli FC,Bologna FC 1909,FINISHED,1.0,1.0
+2025-01-26 11:30:00,Serie A,AC Milan,Parma Calcio 1913,FINISHED,3.0,2.0
+2025-01-26 14:00:00,Serie A,Udinese Calcio,AS Roma,FINISHED,1.0,2.0
+2025-01-26 17:00:00,Serie A,US Lecce,FC Internazionale Milano,FINISHED,0.0,4.0
+2025-01-26 19:45:00,Serie A,SS Lazio,ACF Fiorentina,FINISHED,1.0,2.0
+2025-01-27 17:30:00,Serie A,Venezia FC,Hellas Verona FC,FINISHED,1.0,1.0
+2025-01-27 19:45:00,Serie A,Genoa CFC,AC Monza,FINISHED,2.0,0.0
+2025-01-31 19:45:00,Serie A,Parma Calcio 1913,US Lecce,FINISHED,1.0,3.0
+2025-02-01 14:00:00,Serie A,AC Monza,Hellas Verona FC,FINISHED,0.0,1.0
+2025-02-01 14:00:00,Serie A,Udinese Calcio,Venezia FC,FINISHED,3.0,2.0
+2025-02-01 17:00:00,Serie A,Atalanta BC,Torino FC,FINISHED,1.0,1.0
+2025-02-01 19:45:00,Serie A,Bologna FC 1909,Como 1907,FINISHED,2.0,0.0
+2025-02-02 11:30:00,Serie A,Juventus FC,Empoli FC,FINISHED,4.0,1.0
+2025-02-02 14:00:00,Serie A,ACF Fiorentina,Genoa CFC,FINISHED,2.0,1.0
+2025-02-02 17:00:00,Serie A,AC Milan,FC Internazionale Milano,FINISHED,1.0,1.0
+2025-02-02 19:45:00,Serie A,AS Roma,SSC Napoli,FINISHED,1.0,1.0
+2025-02-03 19:45:00,Serie A,Cagliari Calcio,SS Lazio,FINISHED,1.0,2.0
+2025-02-06 19:45:00,Serie A,ACF Fiorentina,FC Internazionale Milano,FINISHED,3.0,0.0
+2025-02-07 19:45:00,Serie A,Como 1907,Juventus FC,FINISHED,1.0,2.0
+2025-02-08 14:00:00,Serie A,Hellas Verona FC,Atalanta BC,FINISHED,0.0,5.0
+2025-02-08 17:00:00,Serie A,Empoli FC,AC Milan,FINISHED,0.0,2.0
+2025-02-08 19:45:00,Serie A,Torino FC,Genoa CFC,FINISHED,1.0,1.0
+2025-02-09 11:30:00,Serie A,Venezia FC,AS Roma,FINISHED,0.0,1.0
+2025-02-09 14:00:00,Serie A,Cagliari Calcio,Parma Calcio 1913,FINISHED,2.0,1.0
+2025-02-09 14:00:00,Serie A,SS Lazio,AC Monza,FINISHED,5.0,1.0
+2025-02-09 17:00:00,Serie A,US Lecce,Bologna FC 1909,FINISHED,0.0,0.0
+2025-02-09 19:45:00,Serie A,SSC Napoli,Udinese Calcio,FINISHED,1.0,1.0
+2025-02-10 19:45:00,Serie A,FC Internazionale Milano,ACF Fiorentina,FINISHED,2.0,1.0
+2025-02-14 19:45:00,Serie A,Bologna FC 1909,Torino FC,FINISHED,3.0,2.0
+2025-02-15 14:00:00,Serie A,Atalanta BC,Cagliari Calcio,FINISHED,0.0,0.0
+2025-02-15 17:00:00,Serie A,SS Lazio,SSC Napoli,FINISHED,2.0,2.0
+2025-02-15 19:45:00,Serie A,AC Milan,Hellas Verona FC,FINISHED,1.0,0.0
+2025-02-16 11:30:00,Serie A,ACF Fiorentina,Como 1907,FINISHED,0.0,2.0
+2025-02-16 14:00:00,Serie A,AC Monza,US Lecce,FINISHED,0.0,0.0
+2025-02-16 14:00:00,Serie A,Udinese Calcio,Empoli FC,FINISHED,3.0,0.0
+2025-02-16 17:00:00,Serie A,Parma Calcio 1913,AS Roma,FINISHED,0.0,1.0
+2025-02-16 19:45:00,Serie A,Juventus FC,FC Internazionale Milano,FINISHED,1.0,0.0
+2025-02-17 19:45:00,Serie A,Genoa CFC,Venezia FC,FINISHED,2.0,0.0
+2025-02-21 19:45:00,Serie A,US Lecce,Udinese Calcio,FINISHED,0.0,1.0
+2025-02-22 14:00:00,Serie A,Parma Calcio 1913,Bologna FC 1909,FINISHED,2.0,0.0
+2025-02-22 14:00:00,Serie A,Venezia FC,SS Lazio,FINISHED,0.0,0.0
+2025-02-22 17:00:00,Serie A,Torino FC,AC Milan,FINISHED,2.0,1.0
+2025-02-22 19:45:00,Serie A,FC Internazionale Milano,Genoa CFC,FINISHED,1.0,0.0
+2025-02-23 11:30:00,Serie A,Como 1907,SSC Napoli,FINISHED,2.0,1.0
+2025-02-23 14:00:00,Serie A,Hellas Verona FC,ACF Fiorentina,FINISHED,1.0,0.0
+2025-02-23 17:00:00,Serie A,Empoli FC,Atalanta BC,FINISHED,0.0,5.0
+2025-02-23 19:45:00,Serie A,Cagliari Calcio,Juventus FC,FINISHED,0.0,1.0
+2025-02-24 19:45:00,Serie A,AS Roma,AC Monza,FINISHED,4.0,0.0
+2025-02-27 19:45:00,Serie A,Bologna FC 1909,AC Milan,FINISHED,2.0,1.0
+2025-02-28 19:45:00,Serie A,ACF Fiorentina,US Lecce,FINISHED,1.0,0.0
+2025-03-01 14:00:00,Serie A,Atalanta BC,Venezia FC,FINISHED,0.0,0.0
+2025-03-01 17:00:00,Serie A,SSC Napoli,FC Internazionale Milano,FINISHED,1.0,1.0
+2025-03-01 19:45:00,Serie A,Udinese Calcio,Parma Calcio 1913,FINISHED,1.0,0.0
+2025-03-02 11:30:00,Serie A,AC Monza,Torino FC,FINISHED,0.0,2.0
+2025-03-02 14:00:00,Serie A,Bologna FC 1909,Cagliari Calcio,FINISHED,2.0,1.0
+2025-03-02 14:00:00,Serie A,Genoa CFC,Empoli FC,FINISHED,1.0,1.0
+2025-03-02 17:00:00,Serie A,AS Roma,Como 1907,FINISHED,2.0,1.0
+2025-03-02 19:45:00,Serie A,AC Milan,SS Lazio,FINISHED,1.0,2.0
+2025-03-03 19:45:00,Serie A,Juventus FC,Hellas Verona FC,FINISHED,2.0,0.0
+2025-03-07 19:45:00,Serie A,Cagliari Calcio,Genoa CFC,FINISHED,1.0,1.0
+2025-03-08 14:00:00,Serie A,Como 1907,Venezia FC,FINISHED,1.0,1.0
+2025-03-08 14:00:00,Serie A,Parma Calcio 1913,Torino FC,FINISHED,2.0,2.0
+2025-03-08 17:00:00,Serie A,US Lecce,AC Milan,FINISHED,2.0,3.0
+2025-03-08 19:45:00,Serie A,FC Internazionale Milano,AC Monza,FINISHED,3.0,2.0
+2025-03-09 11:30:00,Serie A,Hellas Verona FC,Bologna FC 1909,FINISHED,1.0,2.0
+2025-03-09 14:00:00,Serie A,SSC Napoli,ACF Fiorentina,FINISHED,2.0,1.0
+2025-03-09 17:00:00,Serie A,Empoli FC,AS Roma,FINISHED,0.0,1.0
+2025-03-09 19:45:00,Serie A,Juventus FC,Atalanta BC,FINISHED,0.0,4.0
+2025-03-10 19:45:00,Serie A,SS Lazio,Udinese Calcio,FINISHED,1.0,1.0
+2025-03-14 19:45:00,Serie A,Genoa CFC,US Lecce,FINISHED,2.0,1.0
+2025-03-15 14:00:00,Serie A,AC Monza,Parma Calcio 1913,FINISHED,1.0,1.0
+2025-03-15 14:00:00,Serie A,Udinese Calcio,Hellas Verona FC,FINISHED,0.0,1.0
+2025-03-15 17:00:00,Serie A,AC Milan,Como 1907,FINISHED,2.0,1.0
+2025-03-15 19:45:00,Serie A,Torino FC,Empoli FC,FINISHED,1.0,0.0
+2025-03-16 11:30:00,Serie A,Venezia FC,SSC Napoli,FINISHED,0.0,0.0
+2025-03-16 14:00:00,Serie A,Bologna FC 1909,SS Lazio,FINISHED,5.0,0.0
+2025-03-16 15:00:00,Serie A,AS Roma,Cagliari Calcio,FINISHED,1.0,0.0
+2025-03-16 17:00:00,Serie A,ACF Fiorentina,Juventus FC,FINISHED,3.0,0.0
+2025-03-16 19:45:00,Serie A,Atalanta BC,FC Internazionale Milano,FINISHED,0.0,2.0
+2025-03-29 14:00:00,Serie A,Como 1907,Empoli FC,TIMED,,
+2025-03-29 14:00:00,Serie A,Venezia FC,Bologna FC 1909,TIMED,,
+2025-03-29 17:00:00,Serie A,Juventus FC,Genoa CFC,TIMED,,
+2025-03-29 19:45:00,Serie A,US Lecce,AS Roma,TIMED,,
+2025-03-30 10:30:00,Serie A,Cagliari Calcio,AC Monza,TIMED,,
+2025-03-30 13:00:00,Serie A,ACF Fiorentina,Atalanta BC,TIMED,,
+2025-03-30 16:00:00,Serie A,FC Internazionale Milano,Udinese Calcio,TIMED,,
+2025-03-30 18:45:00,Serie A,SSC Napoli,AC Milan,TIMED,,
+2025-03-31 16:30:00,Serie A,Hellas Verona FC,Parma Calcio 1913,TIMED,,
+2025-03-31 18:45:00,Serie A,SS Lazio,Torino FC,TIMED,,
+2025-04-04 18:45:00,Serie A,Genoa CFC,Udinese Calcio,TIMED,,
+2025-04-05 13:00:00,Serie A,AC Monza,Como 1907,TIMED,,
+2025-04-05 16:00:00,Serie A,Parma Calcio 1913,FC Internazionale Milano,TIMED,,
+2025-04-05 18:45:00,Serie A,AC Milan,ACF Fiorentina,TIMED,,
+2025-04-06 10:30:00,Serie A,US Lecce,Venezia FC,TIMED,,
+2025-04-06 13:00:00,Serie A,Empoli FC,Cagliari Calcio,TIMED,,
+2025-04-06 13:00:00,Serie A,Torino FC,Hellas Verona FC,TIMED,,
+2025-04-06 16:00:00,Serie A,Atalanta BC,SS Lazio,TIMED,,
+2025-04-06 18:45:00,Serie A,AS Roma,Juventus FC,TIMED,,
+2025-04-07 18:45:00,Serie A,Bologna FC 1909,SSC Napoli,TIMED,,
+2025-04-13 00:00:00,Serie A,Atalanta BC,Bologna FC 1909,TIMED,,
+2025-04-13 00:00:00,Serie A,Como 1907,Torino FC,TIMED,,
+2025-04-13 00:00:00,Serie A,ACF Fiorentina,Parma Calcio 1913,TIMED,,
+2025-04-13 00:00:00,Serie A,Hellas Verona FC,Genoa CFC,TIMED,,
+2025-04-13 00:00:00,Serie A,FC Internazionale Milano,Cagliari Calcio,TIMED,,
+2025-04-13 00:00:00,Serie A,Juventus FC,US Lecce,TIMED,,
+2025-04-13 00:00:00,Serie A,SS Lazio,AS Roma,TIMED,,
+2025-04-13 00:00:00,Serie A,SSC Napoli,Empoli FC,TIMED,,
+2025-04-13 00:00:00,Serie A,Udinese Calcio,AC Milan,TIMED,,
+2025-04-13 00:00:00,Serie A,Venezia FC,AC Monza,TIMED,,
+2025-04-20 00:00:00,Serie A,Bologna FC 1909,FC Internazionale Milano,TIMED,,
+2025-04-20 00:00:00,Serie A,Cagliari Calcio,ACF Fiorentina,TIMED,,
+2025-04-20 00:00:00,Serie A,Empoli FC,Venezia FC,TIMED,,
+2025-04-20 00:00:00,Serie A,Genoa CFC,SS Lazio,TIMED,,
+2025-04-20 00:00:00,Serie A,US Lecce,Como 1907,TIMED,,
+2025-04-20 00:00:00,Serie A,AC Milan,Atalanta BC,TIMED,,
+2025-04-20 00:00:00,Serie A,AC Monza,SSC Napoli,TIMED,,
+2025-04-20 00:00:00,Serie A,Parma Calcio 1913,Juventus FC,TIMED,,
+2025-04-20 00:00:00,Serie A,AS Roma,Hellas Verona FC,TIMED,,
+2025-04-20 00:00:00,Serie A,Torino FC,Udinese Calcio,TIMED,,
+2025-04-27 00:00:00,Serie A,Atalanta BC,US Lecce,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,Como 1907,Genoa CFC,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,ACF Fiorentina,Empoli FC,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,Hellas Verona FC,Cagliari Calcio,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,FC Internazionale Milano,AS Roma,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,Juventus FC,AC Monza,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,SS Lazio,Parma Calcio 1913,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,SSC Napoli,Torino FC,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,Udinese Calcio,Bologna FC 1909,SCHEDULED,,
+2025-04-27 00:00:00,Serie A,Venezia FC,AC Milan,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,Bologna FC 1909,Juventus FC,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,Cagliari Calcio,Udinese Calcio,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,Empoli FC,SS Lazio,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,Genoa CFC,AC Milan,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,FC Internazionale Milano,Hellas Verona FC,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,US Lecce,SSC Napoli,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,AC Monza,Atalanta BC,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,Parma Calcio 1913,Como 1907,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,AS Roma,ACF Fiorentina,SCHEDULED,,
+2025-05-04 00:00:00,Serie A,Torino FC,Venezia FC,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,Atalanta BC,AS Roma,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,Como 1907,Cagliari Calcio,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,Empoli FC,Parma Calcio 1913,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,Hellas Verona FC,US Lecce,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,SS Lazio,Juventus FC,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,AC Milan,Bologna FC 1909,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,SSC Napoli,Genoa CFC,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,Torino FC,FC Internazionale Milano,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,Udinese Calcio,AC Monza,SCHEDULED,,
+2025-05-11 00:00:00,Serie A,Venezia FC,ACF Fiorentina,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,Cagliari Calcio,Venezia FC,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,ACF Fiorentina,Bologna FC 1909,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,Genoa CFC,Atalanta BC,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,Hellas Verona FC,Como 1907,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,FC Internazionale Milano,SS Lazio,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,Juventus FC,Udinese Calcio,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,US Lecce,Torino FC,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,AC Monza,Empoli FC,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,Parma Calcio 1913,SSC Napoli,SCHEDULED,,
+2025-05-18 00:00:00,Serie A,AS Roma,AC Milan,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,Atalanta BC,Parma Calcio 1913,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,Bologna FC 1909,Genoa CFC,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,Como 1907,FC Internazionale Milano,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,Empoli FC,Hellas Verona FC,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,SS Lazio,US Lecce,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,AC Milan,AC Monza,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,SSC Napoli,Cagliari Calcio,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,Torino FC,AS Roma,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,Udinese Calcio,ACF Fiorentina,SCHEDULED,,
+2025-05-25 00:00:00,Serie A,Venezia FC,Juventus FC,SCHEDULED,,
+2025-01-10 19:45:00,Bundesliga,Borussia Dortmund,Bayer 04 Leverkusen,FINISHED,2.0,3.0
+2025-01-11 14:30:00,Bundesliga,TSG 1899 Hoffenheim,VfL Wolfsburg,FINISHED,0.0,1.0
+2025-01-11 14:30:00,Bundesliga,1. FC Heidenheim 1846,1. FC Union Berlin,FINISHED,2.0,0.0
+2025-01-11 14:30:00,Bundesliga,SC Freiburg,Holstein Kiel,FINISHED,3.0,2.0
+2025-01-11 14:30:00,Bundesliga,1. FSV Mainz 05,VfL Bochum 1848,FINISHED,2.0,0.0
+2025-01-11 14:30:00,Bundesliga,FC St. Pauli 1910,Eintracht Frankfurt,FINISHED,0.0,1.0
+2025-01-11 17:30:00,Bundesliga,Borussia Mönchengladbach,FC Bayern München,FINISHED,0.0,1.0
+2025-01-12 14:30:00,Bundesliga,RB Leipzig,SV Werder Bremen,FINISHED,4.0,2.0
+2025-01-12 16:30:00,Bundesliga,FC Augsburg,VfB Stuttgart,FINISHED,0.0,1.0
+2025-01-14 17:30:00,Bundesliga,Holstein Kiel,Borussia Dortmund,FINISHED,4.0,2.0
+2025-01-14 19:30:00,Bundesliga,Bayer 04 Leverkusen,1. FSV Mainz 05,FINISHED,1.0,0.0
+2025-01-14 19:30:00,Bundesliga,Eintracht Frankfurt,SC Freiburg,FINISHED,4.0,1.0
+2025-01-14 19:30:00,Bundesliga,VfL Wolfsburg,Borussia Mönchengladbach,FINISHED,5.0,1.0
+2025-01-15 17:30:00,Bundesliga,VfL Bochum 1848,FC St. Pauli 1910,FINISHED,1.0,0.0
+2025-01-15 19:30:00,Bundesliga,VfB Stuttgart,RB Leipzig,FINISHED,2.0,1.0
+2025-01-15 19:30:00,Bundesliga,FC Bayern München,TSG 1899 Hoffenheim,FINISHED,5.0,0.0
+2025-01-15 19:30:00,Bundesliga,SV Werder Bremen,1. FC Heidenheim 1846,FINISHED,3.0,3.0
+2025-01-15 19:30:00,Bundesliga,1. FC Union Berlin,FC Augsburg,FINISHED,0.0,2.0
+2025-01-17 19:30:00,Bundesliga,Eintracht Frankfurt,Borussia Dortmund,FINISHED,2.0,0.0
+2025-01-18 14:30:00,Bundesliga,VfB Stuttgart,SC Freiburg,FINISHED,4.0,0.0
+2025-01-18 14:30:00,Bundesliga,FC Bayern München,VfL Wolfsburg,FINISHED,3.0,2.0
+2025-01-18 14:30:00,Bundesliga,1. FC Heidenheim 1846,FC St. Pauli 1910,FINISHED,0.0,2.0
+2025-01-18 14:30:00,Bundesliga,VfL Bochum 1848,RB Leipzig,FINISHED,3.0,3.0
+2025-01-18 14:30:00,Bundesliga,Holstein Kiel,TSG 1899 Hoffenheim,FINISHED,1.0,3.0
+2025-01-18 17:30:00,Bundesliga,Bayer 04 Leverkusen,Borussia Mönchengladbach,FINISHED,3.0,1.0
+2025-01-19 14:30:00,Bundesliga,1. FC Union Berlin,1. FSV Mainz 05,FINISHED,2.0,1.0
+2025-01-19 16:30:00,Bundesliga,SV Werder Bremen,FC Augsburg,FINISHED,0.0,2.0
+2025-01-24 19:30:00,Bundesliga,VfL Wolfsburg,Holstein Kiel,FINISHED,2.0,2.0
+2025-01-25 14:30:00,Bundesliga,RB Leipzig,Bayer 04 Leverkusen,FINISHED,2.0,2.0
+2025-01-25 14:30:00,Bundesliga,1. FSV Mainz 05,VfB Stuttgart,FINISHED,2.0,0.0
+2025-01-25 14:30:00,Bundesliga,SC Freiburg,FC Bayern München,FINISHED,1.0,2.0
+2025-01-25 14:30:00,Bundesliga,FC Augsburg,1. FC Heidenheim 1846,FINISHED,2.0,1.0
+2025-01-25 14:30:00,Bundesliga,Borussia Dortmund,SV Werder Bremen,FINISHED,2.0,2.0
+2025-01-25 17:30:00,Bundesliga,Borussia Mönchengladbach,VfL Bochum 1848,FINISHED,3.0,0.0
+2025-01-26 14:30:00,Bundesliga,TSG 1899 Hoffenheim,Eintracht Frankfurt,FINISHED,2.0,2.0
+2025-01-26 16:30:00,Bundesliga,FC St. Pauli 1910,1. FC Union Berlin,FINISHED,3.0,0.0
+2025-01-31 19:30:00,Bundesliga,SV Werder Bremen,1. FSV Mainz 05,FINISHED,1.0,0.0
+2025-02-01 14:30:00,Bundesliga,1. FC Heidenheim 1846,Borussia Dortmund,FINISHED,1.0,2.0
+2025-02-01 14:30:00,Bundesliga,VfL Bochum 1848,SC Freiburg,FINISHED,0.0,1.0
+2025-02-01 14:30:00,Bundesliga,FC St. Pauli 1910,FC Augsburg,FINISHED,1.0,1.0
+2025-02-01 14:30:00,Bundesliga,VfB Stuttgart,Borussia Mönchengladbach,FINISHED,1.0,2.0
+2025-02-01 14:30:00,Bundesliga,FC Bayern München,Holstein Kiel,FINISHED,4.0,3.0
+2025-02-01 17:30:00,Bundesliga,1. FC Union Berlin,RB Leipzig,FINISHED,0.0,0.0
+2025-02-02 14:30:00,Bundesliga,Eintracht Frankfurt,VfL Wolfsburg,FINISHED,1.0,1.0
+2025-02-02 16:30:00,Bundesliga,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,FINISHED,3.0,1.0
+2025-02-07 19:30:00,Bundesliga,FC Bayern München,SV Werder Bremen,FINISHED,3.0,0.0
+2025-02-08 14:30:00,Bundesliga,VfL Wolfsburg,Bayer 04 Leverkusen,FINISHED,0.0,0.0
+2025-02-08 14:30:00,Bundesliga,Borussia Dortmund,VfB Stuttgart,FINISHED,1.0,2.0
+2025-02-08 14:30:00,Bundesliga,SC Freiburg,1. FC Heidenheim 1846,FINISHED,1.0,0.0
+2025-02-08 14:30:00,Bundesliga,1. FSV Mainz 05,FC Augsburg,FINISHED,0.0,0.0
+2025-02-08 14:30:00,Bundesliga,TSG 1899 Hoffenheim,1. FC Union Berlin,FINISHED,0.0,4.0
+2025-02-08 17:30:00,Bundesliga,Borussia Mönchengladbach,Eintracht Frankfurt,FINISHED,1.0,1.0
+2025-02-09 14:30:00,Bundesliga,Holstein Kiel,VfL Bochum 1848,FINISHED,2.0,2.0
+2025-02-09 16:30:00,Bundesliga,RB Leipzig,FC St. Pauli 1910,FINISHED,2.0,0.0
+2025-02-14 19:30:00,Bundesliga,FC Augsburg,RB Leipzig,FINISHED,0.0,0.0
+2025-02-15 14:30:00,Bundesliga,VfL Bochum 1848,Borussia Dortmund,FINISHED,2.0,0.0
+2025-02-15 14:30:00,Bundesliga,FC St. Pauli 1910,SC Freiburg,FINISHED,0.0,1.0
+2025-02-15 14:30:00,Bundesliga,VfB Stuttgart,VfL Wolfsburg,FINISHED,1.0,2.0
+2025-02-15 14:30:00,Bundesliga,1. FC Union Berlin,Borussia Mönchengladbach,FINISHED,1.0,2.0
+2025-02-15 17:30:00,Bundesliga,Bayer 04 Leverkusen,FC Bayern München,FINISHED,0.0,0.0
+2025-02-16 14:30:00,Bundesliga,SV Werder Bremen,TSG 1899 Hoffenheim,FINISHED,1.0,3.0
+2025-02-16 16:30:00,Bundesliga,Eintracht Frankfurt,Holstein Kiel,FINISHED,3.0,1.0
+2025-02-16 18:30:00,Bundesliga,1. FC Heidenheim 1846,1. FSV Mainz 05,FINISHED,0.0,2.0
+2025-02-21 19:30:00,Bundesliga,SC Freiburg,SV Werder Bremen,FINISHED,5.0,0.0
+2025-02-22 14:30:00,Bundesliga,Holstein Kiel,Bayer 04 Leverkusen,FINISHED,0.0,2.0
+2025-02-22 14:30:00,Bundesliga,Borussia Mönchengladbach,FC Augsburg,FINISHED,0.0,3.0
+2025-02-22 14:30:00,Bundesliga,VfL Wolfsburg,VfL Bochum 1848,FINISHED,1.0,1.0
+2025-02-22 14:30:00,Bundesliga,1. FSV Mainz 05,FC St. Pauli 1910,FINISHED,2.0,0.0
+2025-02-22 17:30:00,Bundesliga,Borussia Dortmund,1. FC Union Berlin,FINISHED,6.0,0.0
+2025-02-23 14:30:00,Bundesliga,RB Leipzig,1. FC Heidenheim 1846,FINISHED,2.0,2.0
+2025-02-23 16:30:00,Bundesliga,FC Bayern München,Eintracht Frankfurt,FINISHED,4.0,0.0
+2025-02-23 18:30:00,Bundesliga,TSG 1899 Hoffenheim,VfB Stuttgart,FINISHED,1.0,1.0
+2025-02-28 19:30:00,Bundesliga,VfB Stuttgart,FC Bayern München,FINISHED,1.0,3.0
+2025-03-01 14:30:00,Bundesliga,FC St. Pauli 1910,Borussia Dortmund,FINISHED,0.0,2.0
+2025-03-01 14:30:00,Bundesliga,VfL Bochum 1848,TSG 1899 Hoffenheim,FINISHED,0.0,1.0
+2025-03-01 14:30:00,Bundesliga,SV Werder Bremen,VfL Wolfsburg,FINISHED,1.0,2.0
+2025-03-01 14:30:00,Bundesliga,RB Leipzig,1. FSV Mainz 05,FINISHED,1.0,2.0
+2025-03-01 14:30:00,Bundesliga,1. FC Heidenheim 1846,Borussia Mönchengladbach,FINISHED,0.0,3.0
+2025-03-01 17:30:00,Bundesliga,Eintracht Frankfurt,Bayer 04 Leverkusen,FINISHED,1.0,4.0
+2025-03-02 14:30:00,Bundesliga,1. FC Union Berlin,Holstein Kiel,FINISHED,0.0,1.0
+2025-03-02 16:30:00,Bundesliga,FC Augsburg,SC Freiburg,FINISHED,0.0,0.0
+2025-03-07 19:30:00,Bundesliga,Borussia Mönchengladbach,1. FSV Mainz 05,FINISHED,1.0,3.0
+2025-03-08 14:30:00,Bundesliga,Holstein Kiel,VfB Stuttgart,FINISHED,2.0,2.0
+2025-03-08 14:30:00,Bundesliga,Bayer 04 Leverkusen,SV Werder Bremen,FINISHED,0.0,2.0
+2025-03-08 14:30:00,Bundesliga,Borussia Dortmund,FC Augsburg,FINISHED,0.0,1.0
+2025-03-08 14:30:00,Bundesliga,FC Bayern München,VfL Bochum 1848,FINISHED,2.0,3.0
+2025-03-08 14:30:00,Bundesliga,VfL Wolfsburg,FC St. Pauli 1910,FINISHED,1.0,1.0
+2025-03-08 17:30:00,Bundesliga,SC Freiburg,RB Leipzig,FINISHED,0.0,0.0
+2025-03-09 14:30:00,Bundesliga,Eintracht Frankfurt,1. FC Union Berlin,FINISHED,1.0,2.0
+2025-03-09 16:30:00,Bundesliga,TSG 1899 Hoffenheim,1. FC Heidenheim 1846,FINISHED,1.0,1.0
+2025-03-14 19:30:00,Bundesliga,FC St. Pauli 1910,TSG 1899 Hoffenheim,FINISHED,1.0,0.0
+2025-03-15 14:30:00,Bundesliga,1. FC Union Berlin,FC Bayern München,FINISHED,1.0,1.0
+2025-03-15 14:30:00,Bundesliga,1. FSV Mainz 05,SC Freiburg,FINISHED,2.0,2.0
+2025-03-15 14:30:00,Bundesliga,FC Augsburg,VfL Wolfsburg,FINISHED,1.0,0.0
+2025-03-15 14:30:00,Bundesliga,SV Werder Bremen,Borussia Mönchengladbach,FINISHED,2.0,4.0
+2025-03-15 17:30:00,Bundesliga,RB Leipzig,Borussia Dortmund,FINISHED,2.0,0.0
+2025-03-16 14:30:00,Bundesliga,VfL Bochum 1848,Eintracht Frankfurt,FINISHED,1.0,3.0
+2025-03-16 16:30:00,Bundesliga,1. FC Heidenheim 1846,Holstein Kiel,FINISHED,3.0,1.0
+2025-03-16 18:30:00,Bundesliga,VfB Stuttgart,Bayer 04 Leverkusen,FINISHED,3.0,4.0
+2025-03-28 19:30:00,Bundesliga,Bayer 04 Leverkusen,VfL Bochum 1848,TIMED,,
+2025-03-29 14:30:00,Bundesliga,Borussia Mönchengladbach,RB Leipzig,TIMED,,
+2025-03-29 14:30:00,Bundesliga,VfL Wolfsburg,1. FC Heidenheim 1846,TIMED,,
+2025-03-29 14:30:00,Bundesliga,Holstein Kiel,SV Werder Bremen,TIMED,,
+2025-03-29 14:30:00,Bundesliga,TSG 1899 Hoffenheim,FC Augsburg,TIMED,,
+2025-03-29 14:30:00,Bundesliga,FC Bayern München,FC St. Pauli 1910,TIMED,,
+2025-03-29 17:30:00,Bundesliga,Eintracht Frankfurt,VfB Stuttgart,TIMED,,
+2025-03-30 13:30:00,Bundesliga,SC Freiburg,1. FC Union Berlin,TIMED,,
+2025-03-30 15:30:00,Bundesliga,Borussia Dortmund,1. FSV Mainz 05,TIMED,,
+2025-04-04 18:30:00,Bundesliga,FC Augsburg,FC Bayern München,TIMED,,
+2025-04-05 13:30:00,Bundesliga,1. FC Heidenheim 1846,Bayer 04 Leverkusen,TIMED,,
+2025-04-05 13:30:00,Bundesliga,VfL Bochum 1848,VfB Stuttgart,TIMED,,
+2025-04-05 13:30:00,Bundesliga,SC Freiburg,Borussia Dortmund,TIMED,,
+2025-04-05 13:30:00,Bundesliga,RB Leipzig,TSG 1899 Hoffenheim,TIMED,,
+2025-04-05 13:30:00,Bundesliga,1. FSV Mainz 05,Holstein Kiel,TIMED,,
+2025-04-05 16:30:00,Bundesliga,SV Werder Bremen,Eintracht Frankfurt,TIMED,,
+2025-04-06 13:30:00,Bundesliga,FC St. Pauli 1910,Borussia Mönchengladbach,TIMED,,
+2025-04-06 15:30:00,Bundesliga,1. FC Union Berlin,VfL Wolfsburg,TIMED,,
+2025-04-11 18:30:00,Bundesliga,VfL Wolfsburg,RB Leipzig,TIMED,,
+2025-04-12 13:30:00,Bundesliga,Borussia Mönchengladbach,SC Freiburg,TIMED,,
+2025-04-12 13:30:00,Bundesliga,VfL Bochum 1848,FC Augsburg,TIMED,,
+2025-04-12 13:30:00,Bundesliga,TSG 1899 Hoffenheim,1. FSV Mainz 05,TIMED,,
+2025-04-12 13:30:00,Bundesliga,Bayer 04 Leverkusen,1. FC Union Berlin,TIMED,,
+2025-04-12 13:30:00,Bundesliga,Holstein Kiel,FC St. Pauli 1910,TIMED,,
+2025-04-12 16:30:00,Bundesliga,FC Bayern München,Borussia Dortmund,TIMED,,
+2025-04-13 13:30:00,Bundesliga,VfB Stuttgart,SV Werder Bremen,TIMED,,
+2025-04-13 15:30:00,Bundesliga,Eintracht Frankfurt,1. FC Heidenheim 1846,TIMED,,
+2025-04-19 13:30:00,Bundesliga,1. FC Heidenheim 1846,FC Bayern München,TIMED,,
+2025-04-19 13:30:00,Bundesliga,SC Freiburg,TSG 1899 Hoffenheim,TIMED,,
+2025-04-19 13:30:00,Bundesliga,1. FSV Mainz 05,VfL Wolfsburg,TIMED,,
+2025-04-19 13:30:00,Bundesliga,SV Werder Bremen,VfL Bochum 1848,TIMED,,
+2025-04-19 13:30:00,Bundesliga,RB Leipzig,Holstein Kiel,TIMED,,
+2025-04-19 16:30:00,Bundesliga,1. FC Union Berlin,VfB Stuttgart,TIMED,,
+2025-04-20 13:30:00,Bundesliga,FC Augsburg,Eintracht Frankfurt,TIMED,,
+2025-04-20 15:30:00,Bundesliga,Borussia Dortmund,Borussia Mönchengladbach,TIMED,,
+2025-04-20 17:30:00,Bundesliga,FC St. Pauli 1910,Bayer 04 Leverkusen,TIMED,,
+2025-04-26 00:00:00,Bundesliga,Eintracht Frankfurt,RB Leipzig,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,TSG 1899 Hoffenheim,Borussia Dortmund,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,VfB Stuttgart,1. FC Heidenheim 1846,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,VfL Wolfsburg,SC Freiburg,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,FC Bayern München,1. FSV Mainz 05,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,Holstein Kiel,Borussia Mönchengladbach,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,VfL Bochum 1848,1. FC Union Berlin,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,SV Werder Bremen,FC St. Pauli 1910,SCHEDULED,,
+2025-04-26 00:00:00,Bundesliga,Bayer 04 Leverkusen,FC Augsburg,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,SC Freiburg,Bayer 04 Leverkusen,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,FC St. Pauli 1910,VfB Stuttgart,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,RB Leipzig,FC Bayern München,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,1. FSV Mainz 05,Eintracht Frankfurt,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,Borussia Mönchengladbach,TSG 1899 Hoffenheim,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,1. FC Union Berlin,SV Werder Bremen,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,Borussia Dortmund,VfL Wolfsburg,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,1. FC Heidenheim 1846,VfL Bochum 1848,SCHEDULED,,
+2025-05-03 00:00:00,Bundesliga,FC Augsburg,Holstein Kiel,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,SV Werder Bremen,RB Leipzig,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,Bayer 04 Leverkusen,Borussia Dortmund,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,VfL Wolfsburg,TSG 1899 Hoffenheim,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,1. FC Union Berlin,1. FC Heidenheim 1846,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,Holstein Kiel,SC Freiburg,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,VfB Stuttgart,FC Augsburg,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,VfL Bochum 1848,1. FSV Mainz 05,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,FC Bayern München,Borussia Mönchengladbach,SCHEDULED,,
+2025-05-10 00:00:00,Bundesliga,Eintracht Frankfurt,FC St. Pauli 1910,SCHEDULED,,
+2025-05-17 13:30:00,Bundesliga,1. FSV Mainz 05,Bayer 04 Leverkusen,TIMED,,
+2025-05-17 13:30:00,Bundesliga,RB Leipzig,VfB Stuttgart,TIMED,,
+2025-05-17 13:30:00,Bundesliga,TSG 1899 Hoffenheim,FC Bayern München,TIMED,,
+2025-05-17 13:30:00,Bundesliga,SC Freiburg,Eintracht Frankfurt,TIMED,,
+2025-05-17 13:30:00,Bundesliga,1. FC Heidenheim 1846,SV Werder Bremen,TIMED,,
+2025-05-17 13:30:00,Bundesliga,Borussia Mönchengladbach,VfL Wolfsburg,TIMED,,
+2025-05-17 13:30:00,Bundesliga,FC Augsburg,1. FC Union Berlin,TIMED,,
+2025-05-17 13:30:00,Bundesliga,FC St. Pauli 1910,VfL Bochum 1848,TIMED,,
+2025-05-17 13:30:00,Bundesliga,Borussia Dortmund,Holstein Kiel,TIMED,,
+2025-01-03 20:00:00,Ligue 1,OGC Nice,Stade Rennais FC 1901,FINISHED,3.0,2.0
+2025-01-04 16:00:00,Ligue 1,AS Saint-Étienne,Stade de Reims,FINISHED,3.0,1.0
+2025-01-04 18:00:00,Ligue 1,Lille OSC,FC Nantes,FINISHED,1.0,1.0
+2025-01-04 20:00:00,Ligue 1,Olympique Lyonnais,Montpellier HSC,FINISHED,1.0,0.0
+2025-01-05 14:00:00,Ligue 1,Racing Club de Lens,Toulouse FC,FINISHED,0.0,1.0
+2025-01-05 14:00:00,Ligue 1,Angers SCO,Stade Brestois 29,FINISHED,2.0,0.0
+2025-01-05 14:00:00,Ligue 1,RC Strasbourg Alsace,AJ Auxerre,FINISHED,3.0,1.0
+2025-01-05 19:45:00,Ligue 1,Olympique de Marseille,Le Havre AC,FINISHED,5.0,1.0
+2025-01-10 18:00:00,Ligue 1,FC Nantes,AS Monaco FC,FINISHED,2.0,2.0
+2025-01-10 20:05:00,Ligue 1,AJ Auxerre,Lille OSC,FINISHED,0.0,0.0
+2025-01-11 16:00:00,Ligue 1,Stade Brestois 29,Olympique Lyonnais,FINISHED,2.0,1.0
+2025-01-11 18:00:00,Ligue 1,Stade de Reims,OGC Nice,FINISHED,2.0,4.0
+2025-01-11 20:05:00,Ligue 1,Stade Rennais FC 1901,Olympique de Marseille,FINISHED,1.0,2.0
+2025-01-12 14:00:00,Ligue 1,Le Havre AC,Racing Club de Lens,FINISHED,1.0,2.0
+2025-01-12 16:15:00,Ligue 1,Toulouse FC,RC Strasbourg Alsace,FINISHED,1.0,2.0
+2025-01-12 16:15:00,Ligue 1,Montpellier HSC,Angers SCO,FINISHED,1.0,3.0
+2025-01-12 19:45:00,Ligue 1,Paris Saint-Germain FC,AS Saint-Étienne,FINISHED,2.0,1.0
+2025-01-17 18:00:00,Ligue 1,Montpellier HSC,AS Monaco FC,FINISHED,2.0,1.0
+2025-01-17 20:05:00,Ligue 1,Lille OSC,OGC Nice,FINISHED,2.0,1.0
+2025-01-18 16:00:00,Ligue 1,Racing Club de Lens,Paris Saint-Germain FC,FINISHED,1.0,2.0
+2025-01-18 18:00:00,Ligue 1,Stade Rennais FC 1901,Stade Brestois 29,FINISHED,1.0,2.0
+2025-01-18 20:05:00,Ligue 1,Olympique Lyonnais,Toulouse FC,FINISHED,0.0,0.0
+2025-01-19 14:00:00,Ligue 1,AS Saint-Étienne,FC Nantes,FINISHED,1.0,1.0
+2025-01-19 16:15:00,Ligue 1,Stade de Reims,Le Havre AC,FINISHED,1.0,1.0
+2025-01-19 16:15:00,Ligue 1,Angers SCO,AJ Auxerre,FINISHED,2.0,0.0
+2025-01-19 19:45:00,Ligue 1,Olympique de Marseille,RC Strasbourg Alsace,FINISHED,1.0,1.0
+2025-01-24 19:45:00,Ligue 1,AJ Auxerre,AS Saint-Étienne,FINISHED,1.0,1.0
+2025-01-25 16:00:00,Ligue 1,AS Monaco FC,Stade Rennais FC 1901,FINISHED,3.0,2.0
+2025-01-25 18:00:00,Ligue 1,RC Strasbourg Alsace,Lille OSC,FINISHED,2.0,1.0
+2025-01-25 20:05:00,Ligue 1,Paris Saint-Germain FC,Stade de Reims,FINISHED,1.0,1.0
+2025-01-26 14:00:00,Ligue 1,Le Havre AC,Stade Brestois 29,FINISHED,0.0,1.0
+2025-01-26 16:15:00,Ligue 1,FC Nantes,Olympique Lyonnais,FINISHED,1.0,1.0
+2025-01-26 16:15:00,Ligue 1,Toulouse FC,Montpellier HSC,FINISHED,1.0,2.0
+2025-01-26 16:15:00,Ligue 1,Racing Club de Lens,Angers SCO,FINISHED,1.0,0.0
+2025-01-26 19:45:00,Ligue 1,OGC Nice,Olympique de Marseille,FINISHED,2.0,0.0
+2025-01-31 19:45:00,Ligue 1,Montpellier HSC,Racing Club de Lens,FINISHED,0.0,2.0
+2025-02-01 16:00:00,Ligue 1,Stade Brestois 29,Paris Saint-Germain FC,FINISHED,2.0,5.0
+2025-02-01 18:00:00,Ligue 1,AS Monaco FC,AJ Auxerre,FINISHED,4.0,2.0
+2025-02-01 20:05:00,Ligue 1,Lille OSC,AS Saint-Étienne,FINISHED,4.0,1.0
+2025-02-02 14:00:00,Ligue 1,Toulouse FC,OGC Nice,FINISHED,1.0,1.0
+2025-02-02 16:15:00,Ligue 1,Stade de Reims,FC Nantes,FINISHED,1.0,2.0
+2025-02-02 16:15:00,Ligue 1,Angers SCO,Le Havre AC,FINISHED,1.0,1.0
+2025-02-02 16:15:00,Ligue 1,Stade Rennais FC 1901,RC Strasbourg Alsace,FINISHED,1.0,0.0
+2025-02-02 19:45:00,Ligue 1,Olympique de Marseille,Olympique Lyonnais,FINISHED,3.0,2.0
+2025-02-07 18:00:00,Ligue 1,FC Nantes,Stade Brestois 29,FINISHED,0.0,2.0
+2025-02-07 20:05:00,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,FINISHED,4.0,1.0
+2025-02-08 16:00:00,Ligue 1,OGC Nice,Racing Club de Lens,FINISHED,2.0,0.0
+2025-02-08 18:00:00,Ligue 1,Lille OSC,Le Havre AC,FINISHED,1.0,2.0
+2025-02-08 20:05:00,Ligue 1,AS Saint-Étienne,Stade Rennais FC 1901,FINISHED,0.0,2.0
+2025-02-09 14:00:00,Ligue 1,Olympique Lyonnais,Stade de Reims,FINISHED,4.0,0.0
+2025-02-09 16:15:00,Ligue 1,AJ Auxerre,Toulouse FC,FINISHED,2.0,2.0
+2025-02-09 16:15:00,Ligue 1,RC Strasbourg Alsace,Montpellier HSC,FINISHED,2.0,0.0
+2025-02-09 19:45:00,Ligue 1,Angers SCO,Olympique de Marseille,FINISHED,0.0,2.0
+2025-02-14 19:45:00,Ligue 1,Stade Brestois 29,AJ Auxerre,FINISHED,2.0,2.0
+2025-02-15 16:00:00,Ligue 1,Olympique de Marseille,AS Saint-Étienne,FINISHED,5.0,1.0
+2025-02-15 18:00:00,Ligue 1,AS Monaco FC,FC Nantes,FINISHED,7.0,1.0
+2025-02-15 20:05:00,Ligue 1,Toulouse FC,Paris Saint-Germain FC,FINISHED,0.0,1.0
+2025-02-16 14:00:00,Ligue 1,Montpellier HSC,Olympique Lyonnais,FINISHED,1.0,4.0
+2025-02-16 16:15:00,Ligue 1,Racing Club de Lens,RC Strasbourg Alsace,FINISHED,0.0,2.0
+2025-02-16 16:15:00,Ligue 1,Stade de Reims,Angers SCO,FINISHED,0.0,1.0
+2025-02-16 16:15:00,Ligue 1,Le Havre AC,OGC Nice,FINISHED,1.0,3.0
+2025-02-16 19:45:00,Ligue 1,Stade Rennais FC 1901,Lille OSC,FINISHED,0.0,2.0
+2025-02-21 19:45:00,Ligue 1,Stade Rennais FC 1901,Stade de Reims,FINISHED,1.0,0.0
+2025-02-22 16:00:00,Ligue 1,Lille OSC,AS Monaco FC,FINISHED,2.0,1.0
+2025-02-22 18:00:00,Ligue 1,AS Saint-Étienne,Angers SCO,FINISHED,3.0,3.0
+2025-02-22 20:05:00,Ligue 1,AJ Auxerre,Olympique de Marseille,FINISHED,3.0,0.0
+2025-02-23 14:00:00,Ligue 1,FC Nantes,Racing Club de Lens,FINISHED,3.0,1.0
+2025-02-23 16:15:00,Ligue 1,Le Havre AC,Toulouse FC,FINISHED,1.0,4.0
+2025-02-23 16:15:00,Ligue 1,RC Strasbourg Alsace,Stade Brestois 29,FINISHED,0.0,0.0
+2025-02-23 16:15:00,Ligue 1,OGC Nice,Montpellier HSC,FINISHED,2.0,0.0
+2025-02-23 19:45:00,Ligue 1,Olympique Lyonnais,Paris Saint-Germain FC,FINISHED,2.0,3.0
+2025-02-28 19:45:00,Ligue 1,AS Monaco FC,Stade de Reims,FINISHED,3.0,0.0
+2025-03-01 16:00:00,Ligue 1,AS Saint-Étienne,OGC Nice,FINISHED,1.0,3.0
+2025-03-01 18:00:00,Ligue 1,Racing Club de Lens,Le Havre AC,FINISHED,3.0,4.0
+2025-03-01 20:05:00,Ligue 1,Paris Saint-Germain FC,Lille OSC,FINISHED,4.0,1.0
+2025-03-02 14:00:00,Ligue 1,Olympique Lyonnais,Stade Brestois 29,FINISHED,2.0,1.0
+2025-03-02 16:15:00,Ligue 1,Montpellier HSC,Stade Rennais FC 1901,FINISHED,0.0,4.0
+2025-03-02 16:15:00,Ligue 1,AJ Auxerre,RC Strasbourg Alsace,FINISHED,0.0,1.0
+2025-03-02 16:15:00,Ligue 1,Angers SCO,Toulouse FC,FINISHED,0.0,4.0
+2025-03-02 19:45:00,Ligue 1,Olympique de Marseille,FC Nantes,FINISHED,2.0,0.0
+2025-03-07 19:45:00,Ligue 1,Toulouse FC,AS Monaco FC,FINISHED,1.0,1.0
+2025-03-08 16:00:00,Ligue 1,Stade Rennais FC 1901,Paris Saint-Germain FC,FINISHED,1.0,4.0
+2025-03-08 18:00:00,Ligue 1,Lille OSC,Montpellier HSC,FINISHED,1.0,0.0
+2025-03-08 20:05:00,Ligue 1,Olympique de Marseille,Racing Club de Lens,FINISHED,0.0,1.0
+2025-03-09 14:00:00,Ligue 1,Stade Brestois 29,Angers SCO,FINISHED,2.0,0.0
+2025-03-09 16:15:00,Ligue 1,Le Havre AC,AS Saint-Étienne,FINISHED,1.0,1.0
+2025-03-09 16:15:00,Ligue 1,Stade de Reims,AJ Auxerre,FINISHED,0.0,2.0
+2025-03-09 16:15:00,Ligue 1,FC Nantes,RC Strasbourg Alsace,FINISHED,0.0,1.0
+2025-03-09 19:45:00,Ligue 1,OGC Nice,Olympique Lyonnais,FINISHED,0.0,2.0
+2025-03-14 19:45:00,Ligue 1,OGC Nice,AJ Auxerre,FINISHED,1.0,1.0
+2025-03-15 16:00:00,Ligue 1,FC Nantes,Lille OSC,FINISHED,1.0,0.0
+2025-03-15 18:00:00,Ligue 1,Angers SCO,AS Monaco FC,FINISHED,0.0,2.0
+2025-03-15 20:05:00,Ligue 1,Racing Club de Lens,Stade Rennais FC 1901,FINISHED,1.0,0.0
+2025-03-16 14:00:00,Ligue 1,Olympique Lyonnais,Le Havre AC,FINISHED,4.0,2.0
+2025-03-16 16:15:00,Ligue 1,Montpellier HSC,AS Saint-Étienne,CANCELLED,0.0,2.0
+2025-03-16 16:15:00,Ligue 1,Stade Brestois 29,Stade de Reims,FINISHED,0.0,0.0
+2025-03-16 16:15:00,Ligue 1,RC Strasbourg Alsace,Toulouse FC,FINISHED,2.0,1.0
+2025-03-16 19:45:00,Ligue 1,Paris Saint-Germain FC,Olympique de Marseille,FINISHED,3.0,1.0
+2025-03-28 19:45:00,Ligue 1,RC Strasbourg Alsace,Olympique Lyonnais,TIMED,,
+2025-03-29 16:00:00,Ligue 1,Stade de Reims,Olympique de Marseille,TIMED,,
+2025-03-29 18:00:00,Ligue 1,AS Saint-Étienne,Paris Saint-Germain FC,TIMED,,
+2025-03-29 20:05:00,Ligue 1,AS Monaco FC,OGC Nice,TIMED,,
+2025-03-30 13:00:00,Ligue 1,Toulouse FC,Stade Brestois 29,TIMED,,
+2025-03-30 15:15:00,Ligue 1,Angers SCO,Stade Rennais FC 1901,TIMED,,
+2025-03-30 15:15:00,Ligue 1,AJ Auxerre,Montpellier HSC,TIMED,,
+2025-03-30 15:15:00,Ligue 1,Le Havre AC,FC Nantes,TIMED,,
+2025-03-30 18:45:00,Ligue 1,Lille OSC,Racing Club de Lens,TIMED,,
+2025-04-04 18:45:00,Ligue 1,OGC Nice,FC Nantes,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Olympique de Marseille,Toulouse FC,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Stade Brestois 29,AS Monaco FC,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Montpellier HSC,Le Havre AC,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Olympique Lyonnais,Lille OSC,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Racing Club de Lens,AS Saint-Étienne,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Paris Saint-Germain FC,Angers SCO,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Stade de Reims,RC Strasbourg Alsace,TIMED,,
+2025-04-06 00:00:00,Ligue 1,Stade Rennais FC 1901,AJ Auxerre,TIMED,,
+2025-04-13 00:00:00,Ligue 1,Toulouse FC,Lille OSC,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,Le Havre AC,Stade Rennais FC 1901,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,AJ Auxerre,Olympique Lyonnais,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,FC Nantes,Paris Saint-Germain FC,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,RC Strasbourg Alsace,OGC Nice,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,AS Saint-Étienne,Stade Brestois 29,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,Angers SCO,Montpellier HSC,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,Racing Club de Lens,Stade de Reims,SCHEDULED,,
+2025-04-13 00:00:00,Ligue 1,AS Monaco FC,Olympique de Marseille,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,AS Saint-Étienne,Olympique Lyonnais,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,OGC Nice,Angers SCO,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,Stade Brestois 29,Racing Club de Lens,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,Lille OSC,AJ Auxerre,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,Paris Saint-Germain FC,Le Havre AC,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,Olympique de Marseille,Montpellier HSC,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,Stade de Reims,Toulouse FC,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,AS Monaco FC,RC Strasbourg Alsace,SCHEDULED,,
+2025-04-20 00:00:00,Ligue 1,Stade Rennais FC 1901,FC Nantes,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,Le Havre AC,AS Monaco FC,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,RC Strasbourg Alsace,AS Saint-Étienne,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,FC Nantes,Toulouse FC,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,Montpellier HSC,Stade de Reims,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,Racing Club de Lens,AJ Auxerre,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,Angers SCO,Lille OSC,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,Paris Saint-Germain FC,OGC Nice,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,Olympique de Marseille,Stade Brestois 29,SCHEDULED,,
+2025-04-27 00:00:00,Ligue 1,Olympique Lyonnais,Stade Rennais FC 1901,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,Olympique Lyonnais,Racing Club de Lens,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,Lille OSC,Olympique de Marseille,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,OGC Nice,Stade de Reims,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,Stade Brestois 29,Montpellier HSC,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,AS Saint-Étienne,AS Monaco FC,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,FC Nantes,Angers SCO,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,Toulouse FC,Stade Rennais FC 1901,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,RC Strasbourg Alsace,Paris Saint-Germain FC,SCHEDULED,,
+2025-05-04 00:00:00,Ligue 1,AJ Auxerre,Le Havre AC,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,Stade de Reims,AS Saint-Étienne,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,AJ Auxerre,FC Nantes,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,Angers SCO,RC Strasbourg Alsace,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,Le Havre AC,Olympique de Marseille,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,Stade Rennais FC 1901,OGC Nice,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,Montpellier HSC,Paris Saint-Germain FC,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,Toulouse FC,Racing Club de Lens,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,Stade Brestois 29,Lille OSC,SCHEDULED,,
+2025-05-11 00:00:00,Ligue 1,AS Monaco FC,Olympique Lyonnais,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,Olympique de Marseille,Stade Rennais FC 1901,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,Olympique Lyonnais,Angers SCO,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,OGC Nice,Stade Brestois 29,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,AS Saint-Étienne,Toulouse FC,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,Lille OSC,Stade de Reims,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,RC Strasbourg Alsace,Le Havre AC,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,FC Nantes,Montpellier HSC,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,Racing Club de Lens,AS Monaco FC,SCHEDULED,,
+2025-05-18 00:00:00,Ligue 1,Paris Saint-Germain FC,AJ Auxerre,SCHEDULED,,

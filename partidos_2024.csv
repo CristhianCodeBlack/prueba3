@@ -1,0 +1,819 @@
+Fecha,Liga,Equipo Local,Equipo Visitante,Estado,Goles Local,Goles Visitante
+2024-08-16 19:00:00,Premier League,Manchester United FC,Fulham FC,FINISHED,1,0
+2024-08-17 11:30:00,Premier League,Ipswich Town FC,Liverpool FC,FINISHED,0,2
+2024-08-17 14:00:00,Premier League,Arsenal FC,Wolverhampton Wanderers FC,FINISHED,2,0
+2024-08-17 14:00:00,Premier League,Everton FC,Brighton & Hove Albion FC,FINISHED,0,3
+2024-08-17 14:00:00,Premier League,Newcastle United FC,Southampton FC,FINISHED,1,0
+2024-08-17 14:00:00,Premier League,Nottingham Forest FC,AFC Bournemouth,FINISHED,1,1
+2024-08-17 16:30:00,Premier League,West Ham United FC,Aston Villa FC,FINISHED,1,2
+2024-08-18 13:00:00,Premier League,Brentford FC,Crystal Palace FC,FINISHED,2,1
+2024-08-18 15:30:00,Premier League,Chelsea FC,Manchester City FC,FINISHED,0,2
+2024-08-19 19:00:00,Premier League,Leicester City FC,Tottenham Hotspur FC,FINISHED,1,1
+2024-08-24 11:30:00,Premier League,Brighton & Hove Albion FC,Manchester United FC,FINISHED,2,1
+2024-08-24 14:00:00,Premier League,Crystal Palace FC,West Ham United FC,FINISHED,0,2
+2024-08-24 14:00:00,Premier League,Fulham FC,Leicester City FC,FINISHED,2,1
+2024-08-24 14:00:00,Premier League,Manchester City FC,Ipswich Town FC,FINISHED,4,1
+2024-08-24 14:00:00,Premier League,Southampton FC,Nottingham Forest FC,FINISHED,0,1
+2024-08-24 14:00:00,Premier League,Tottenham Hotspur FC,Everton FC,FINISHED,4,0
+2024-08-24 16:30:00,Premier League,Aston Villa FC,Arsenal FC,FINISHED,0,2
+2024-08-25 13:00:00,Premier League,AFC Bournemouth,Newcastle United FC,FINISHED,1,1
+2024-08-25 13:00:00,Premier League,Wolverhampton Wanderers FC,Chelsea FC,FINISHED,2,6
+2024-08-25 15:30:00,Premier League,Liverpool FC,Brentford FC,FINISHED,2,0
+2024-08-31 11:30:00,Premier League,Arsenal FC,Brighton & Hove Albion FC,FINISHED,1,1
+2024-08-31 14:00:00,Premier League,Brentford FC,Southampton FC,FINISHED,3,1
+2024-08-31 14:00:00,Premier League,Everton FC,AFC Bournemouth,FINISHED,2,3
+2024-08-31 14:00:00,Premier League,Ipswich Town FC,Fulham FC,FINISHED,1,1
+2024-08-31 14:00:00,Premier League,Leicester City FC,Aston Villa FC,FINISHED,1,2
+2024-08-31 14:00:00,Premier League,Nottingham Forest FC,Wolverhampton Wanderers FC,FINISHED,1,1
+2024-08-31 16:30:00,Premier League,West Ham United FC,Manchester City FC,FINISHED,1,3
+2024-09-01 12:30:00,Premier League,Chelsea FC,Crystal Palace FC,FINISHED,1,1
+2024-09-01 12:30:00,Premier League,Newcastle United FC,Tottenham Hotspur FC,FINISHED,2,1
+2024-09-01 15:00:00,Premier League,Manchester United FC,Liverpool FC,FINISHED,0,3
+2024-09-14 11:30:00,Premier League,Southampton FC,Manchester United FC,FINISHED,0,3
+2024-09-14 14:00:00,Premier League,Brighton & Hove Albion FC,Ipswich Town FC,FINISHED,0,0
+2024-09-14 14:00:00,Premier League,Crystal Palace FC,Leicester City FC,FINISHED,2,2
+2024-09-14 14:00:00,Premier League,Fulham FC,West Ham United FC,FINISHED,1,1
+2024-09-14 14:00:00,Premier League,Liverpool FC,Nottingham Forest FC,FINISHED,0,1
+2024-09-14 14:00:00,Premier League,Manchester City FC,Brentford FC,FINISHED,2,1
+2024-09-14 16:30:00,Premier League,Aston Villa FC,Everton FC,FINISHED,3,2
+2024-09-14 19:00:00,Premier League,AFC Bournemouth,Chelsea FC,FINISHED,0,1
+2024-09-15 13:00:00,Premier League,Tottenham Hotspur FC,Arsenal FC,FINISHED,0,1
+2024-09-15 15:30:00,Premier League,Wolverhampton Wanderers FC,Newcastle United FC,FINISHED,1,2
+2024-09-21 11:30:00,Premier League,West Ham United FC,Chelsea FC,FINISHED,0,3
+2024-09-21 14:00:00,Premier League,Aston Villa FC,Wolverhampton Wanderers FC,FINISHED,3,1
+2024-09-21 14:00:00,Premier League,Fulham FC,Newcastle United FC,FINISHED,3,1
+2024-09-21 14:00:00,Premier League,Leicester City FC,Everton FC,FINISHED,1,1
+2024-09-21 14:00:00,Premier League,Liverpool FC,AFC Bournemouth,FINISHED,3,0
+2024-09-21 14:00:00,Premier League,Southampton FC,Ipswich Town FC,FINISHED,1,1
+2024-09-21 14:00:00,Premier League,Tottenham Hotspur FC,Brentford FC,FINISHED,3,1
+2024-09-21 16:30:00,Premier League,Crystal Palace FC,Manchester United FC,FINISHED,0,0
+2024-09-22 13:00:00,Premier League,Brighton & Hove Albion FC,Nottingham Forest FC,FINISHED,2,2
+2024-09-22 15:30:00,Premier League,Manchester City FC,Arsenal FC,FINISHED,2,2
+2024-09-28 11:30:00,Premier League,Newcastle United FC,Manchester City FC,FINISHED,1,1
+2024-09-28 14:00:00,Premier League,Arsenal FC,Leicester City FC,FINISHED,4,2
+2024-09-28 14:00:00,Premier League,Brentford FC,West Ham United FC,FINISHED,1,1
+2024-09-28 14:00:00,Premier League,Chelsea FC,Brighton & Hove Albion FC,FINISHED,4,2
+2024-09-28 14:00:00,Premier League,Everton FC,Crystal Palace FC,FINISHED,2,1
+2024-09-28 14:00:00,Premier League,Nottingham Forest FC,Fulham FC,FINISHED,0,1
+2024-09-28 16:30:00,Premier League,Wolverhampton Wanderers FC,Liverpool FC,FINISHED,1,2
+2024-09-29 13:00:00,Premier League,Ipswich Town FC,Aston Villa FC,FINISHED,2,2
+2024-09-29 15:30:00,Premier League,Manchester United FC,Tottenham Hotspur FC,FINISHED,0,3
+2024-09-30 19:00:00,Premier League,AFC Bournemouth,Southampton FC,FINISHED,3,1
+2024-10-05 11:30:00,Premier League,Crystal Palace FC,Liverpool FC,FINISHED,0,1
+2024-10-05 14:00:00,Premier League,Arsenal FC,Southampton FC,FINISHED,3,1
+2024-10-05 14:00:00,Premier League,Brentford FC,Wolverhampton Wanderers FC,FINISHED,5,3
+2024-10-05 14:00:00,Premier League,Leicester City FC,AFC Bournemouth,FINISHED,1,0
+2024-10-05 14:00:00,Premier League,Manchester City FC,Fulham FC,FINISHED,3,2
+2024-10-05 14:00:00,Premier League,West Ham United FC,Ipswich Town FC,FINISHED,4,1
+2024-10-05 16:30:00,Premier League,Everton FC,Newcastle United FC,FINISHED,0,0
+2024-10-06 13:00:00,Premier League,Aston Villa FC,Manchester United FC,FINISHED,0,0
+2024-10-06 13:00:00,Premier League,Chelsea FC,Nottingham Forest FC,FINISHED,1,1
+2024-10-06 15:30:00,Premier League,Brighton & Hove Albion FC,Tottenham Hotspur FC,FINISHED,3,2
+2024-10-19 11:30:00,Premier League,Tottenham Hotspur FC,West Ham United FC,FINISHED,4,1
+2024-10-19 14:00:00,Premier League,Fulham FC,Aston Villa FC,FINISHED,1,3
+2024-10-19 14:00:00,Premier League,Ipswich Town FC,Everton FC,FINISHED,0,2
+2024-10-19 14:00:00,Premier League,Manchester United FC,Brentford FC,FINISHED,2,1
+2024-10-19 14:00:00,Premier League,Newcastle United FC,Brighton & Hove Albion FC,FINISHED,0,1
+2024-10-19 14:00:00,Premier League,Southampton FC,Leicester City FC,FINISHED,2,3
+2024-10-19 16:30:00,Premier League,AFC Bournemouth,Arsenal FC,FINISHED,2,0
+2024-10-20 13:00:00,Premier League,Wolverhampton Wanderers FC,Manchester City FC,FINISHED,1,2
+2024-10-20 15:30:00,Premier League,Liverpool FC,Chelsea FC,FINISHED,2,1
+2024-10-21 19:00:00,Premier League,Nottingham Forest FC,Crystal Palace FC,FINISHED,1,0
+2024-10-25 19:00:00,Premier League,Leicester City FC,Nottingham Forest FC,FINISHED,1,3
+2024-10-26 14:00:00,Premier League,Aston Villa FC,AFC Bournemouth,FINISHED,1,1
+2024-10-26 14:00:00,Premier League,Brentford FC,Ipswich Town FC,FINISHED,4,3
+2024-10-26 14:00:00,Premier League,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,FINISHED,2,2
+2024-10-26 14:00:00,Premier League,Manchester City FC,Southampton FC,FINISHED,1,0
+2024-10-26 16:30:00,Premier League,Everton FC,Fulham FC,FINISHED,1,1
+2024-10-27 14:00:00,Premier League,Chelsea FC,Newcastle United FC,FINISHED,2,1
+2024-10-27 14:00:00,Premier League,Crystal Palace FC,Tottenham Hotspur FC,FINISHED,1,0
+2024-10-27 14:00:00,Premier League,West Ham United FC,Manchester United FC,FINISHED,2,1
+2024-10-27 16:30:00,Premier League,Arsenal FC,Liverpool FC,FINISHED,2,2
+2024-11-02 12:30:00,Premier League,Newcastle United FC,Arsenal FC,FINISHED,1,0
+2024-11-02 15:00:00,Premier League,AFC Bournemouth,Manchester City FC,FINISHED,2,1
+2024-11-02 15:00:00,Premier League,Ipswich Town FC,Leicester City FC,FINISHED,1,1
+2024-11-02 15:00:00,Premier League,Liverpool FC,Brighton & Hove Albion FC,FINISHED,2,1
+2024-11-02 15:00:00,Premier League,Nottingham Forest FC,West Ham United FC,FINISHED,3,0
+2024-11-02 15:00:00,Premier League,Southampton FC,Everton FC,FINISHED,1,0
+2024-11-02 17:30:00,Premier League,Wolverhampton Wanderers FC,Crystal Palace FC,FINISHED,2,2
+2024-11-03 14:00:00,Premier League,Tottenham Hotspur FC,Aston Villa FC,FINISHED,4,1
+2024-11-03 16:30:00,Premier League,Manchester United FC,Chelsea FC,FINISHED,1,1
+2024-11-04 20:00:00,Premier League,Fulham FC,Brentford FC,FINISHED,2,1
+2024-11-09 15:00:00,Premier League,Brentford FC,AFC Bournemouth,FINISHED,3,2
+2024-11-09 15:00:00,Premier League,Crystal Palace FC,Fulham FC,FINISHED,0,2
+2024-11-09 15:00:00,Premier League,West Ham United FC,Everton FC,FINISHED,0,0
+2024-11-09 15:00:00,Premier League,Wolverhampton Wanderers FC,Southampton FC,FINISHED,2,0
+2024-11-09 17:30:00,Premier League,Brighton & Hove Albion FC,Manchester City FC,FINISHED,2,1
+2024-11-09 20:00:00,Premier League,Liverpool FC,Aston Villa FC,FINISHED,2,0
+2024-11-10 14:00:00,Premier League,Manchester United FC,Leicester City FC,FINISHED,3,0
+2024-11-10 14:00:00,Premier League,Nottingham Forest FC,Newcastle United FC,FINISHED,1,3
+2024-11-10 14:00:00,Premier League,Tottenham Hotspur FC,Ipswich Town FC,FINISHED,1,2
+2024-11-10 16:30:00,Premier League,Chelsea FC,Arsenal FC,FINISHED,1,1
+2024-11-23 12:30:00,Premier League,Leicester City FC,Chelsea FC,FINISHED,1,2
+2024-11-23 15:00:00,Premier League,AFC Bournemouth,Brighton & Hove Albion FC,FINISHED,1,2
+2024-11-23 15:00:00,Premier League,Arsenal FC,Nottingham Forest FC,FINISHED,3,0
+2024-11-23 15:00:00,Premier League,Aston Villa FC,Crystal Palace FC,FINISHED,2,2
+2024-11-23 15:00:00,Premier League,Everton FC,Brentford FC,FINISHED,0,0
+2024-11-23 15:00:00,Premier League,Fulham FC,Wolverhampton Wanderers FC,FINISHED,1,4
+2024-11-23 17:30:00,Premier League,Manchester City FC,Tottenham Hotspur FC,FINISHED,0,4
+2024-11-24 14:00:00,Premier League,Southampton FC,Liverpool FC,FINISHED,2,3
+2024-11-24 16:30:00,Premier League,Ipswich Town FC,Manchester United FC,FINISHED,1,1
+2024-11-25 20:00:00,Premier League,Newcastle United FC,West Ham United FC,FINISHED,0,2
+2024-11-29 20:00:00,Premier League,Brighton & Hove Albion FC,Southampton FC,FINISHED,1,1
+2024-11-30 15:00:00,Premier League,Brentford FC,Leicester City FC,FINISHED,4,1
+2024-11-30 15:00:00,Premier League,Crystal Palace FC,Newcastle United FC,FINISHED,1,1
+2024-11-30 15:00:00,Premier League,Nottingham Forest FC,Ipswich Town FC,FINISHED,1,0
+2024-11-30 15:00:00,Premier League,Wolverhampton Wanderers FC,AFC Bournemouth,FINISHED,2,4
+2024-11-30 17:30:00,Premier League,West Ham United FC,Arsenal FC,FINISHED,2,5
+2024-12-01 13:30:00,Premier League,Chelsea FC,Aston Villa FC,FINISHED,3,0
+2024-12-01 13:30:00,Premier League,Manchester United FC,Everton FC,FINISHED,4,0
+2024-12-01 13:30:00,Premier League,Tottenham Hotspur FC,Fulham FC,FINISHED,1,1
+2024-12-01 16:00:00,Premier League,Liverpool FC,Manchester City FC,FINISHED,2,0
+2024-12-03 19:30:00,Premier League,Ipswich Town FC,Crystal Palace FC,FINISHED,0,1
+2024-12-03 20:15:00,Premier League,Leicester City FC,West Ham United FC,FINISHED,3,1
+2024-12-04 19:30:00,Premier League,Everton FC,Wolverhampton Wanderers FC,FINISHED,4,0
+2024-12-04 19:30:00,Premier League,Manchester City FC,Nottingham Forest FC,FINISHED,3,0
+2024-12-04 19:30:00,Premier League,Newcastle United FC,Liverpool FC,FINISHED,3,3
+2024-12-04 19:30:00,Premier League,Southampton FC,Chelsea FC,FINISHED,1,5
+2024-12-04 20:15:00,Premier League,Arsenal FC,Manchester United FC,FINISHED,2,0
+2024-12-04 20:15:00,Premier League,Aston Villa FC,Brentford FC,FINISHED,3,1
+2024-12-05 19:30:00,Premier League,Fulham FC,Brighton & Hove Albion FC,FINISHED,3,1
+2024-12-05 20:15:00,Premier League,AFC Bournemouth,Tottenham Hotspur FC,FINISHED,1,0
+2024-12-07 15:00:00,Premier League,Aston Villa FC,Southampton FC,FINISHED,1,0
+2024-12-07 15:00:00,Premier League,Brentford FC,Newcastle United FC,FINISHED,4,2
+2024-12-07 15:00:00,Premier League,Crystal Palace FC,Manchester City FC,FINISHED,2,2
+2024-12-07 17:30:00,Premier League,Manchester United FC,Nottingham Forest FC,FINISHED,2,3
+2024-12-08 14:00:00,Premier League,Fulham FC,Arsenal FC,FINISHED,1,1
+2024-12-08 14:00:00,Premier League,Ipswich Town FC,AFC Bournemouth,FINISHED,1,2
+2024-12-08 14:00:00,Premier League,Leicester City FC,Brighton & Hove Albion FC,FINISHED,2,2
+2024-12-08 16:30:00,Premier League,Tottenham Hotspur FC,Chelsea FC,FINISHED,3,4
+2024-12-09 20:00:00,Premier League,West Ham United FC,Wolverhampton Wanderers FC,FINISHED,2,1
+2024-12-14 15:00:00,Premier League,Arsenal FC,Everton FC,FINISHED,0,0
+2024-12-14 15:00:00,Premier League,Liverpool FC,Fulham FC,FINISHED,2,2
+2024-12-14 15:00:00,Premier League,Newcastle United FC,Leicester City FC,FINISHED,4,0
+2024-12-14 15:00:00,Premier League,Wolverhampton Wanderers FC,Ipswich Town FC,FINISHED,1,2
+2024-12-14 17:30:00,Premier League,Nottingham Forest FC,Aston Villa FC,FINISHED,2,1
+2024-12-15 14:00:00,Premier League,Brighton & Hove Albion FC,Crystal Palace FC,FINISHED,1,3
+2024-12-15 16:30:00,Premier League,Manchester City FC,Manchester United FC,FINISHED,1,2
+2024-12-15 19:00:00,Premier League,Chelsea FC,Brentford FC,FINISHED,2,1
+2024-12-15 19:00:00,Premier League,Southampton FC,Tottenham Hotspur FC,FINISHED,0,5
+2024-12-16 20:00:00,Premier League,AFC Bournemouth,West Ham United FC,FINISHED,1,1
+2024-12-21 12:30:00,Premier League,Aston Villa FC,Manchester City FC,FINISHED,2,1
+2024-12-21 15:00:00,Premier League,Brentford FC,Nottingham Forest FC,FINISHED,0,2
+2024-12-21 15:00:00,Premier League,Ipswich Town FC,Newcastle United FC,FINISHED,0,4
+2024-12-21 15:00:00,Premier League,West Ham United FC,Brighton & Hove Albion FC,FINISHED,1,1
+2024-12-21 17:30:00,Premier League,Crystal Palace FC,Arsenal FC,FINISHED,1,5
+2024-12-22 14:00:00,Premier League,Everton FC,Chelsea FC,FINISHED,0,0
+2024-12-22 14:00:00,Premier League,Fulham FC,Southampton FC,FINISHED,0,0
+2024-12-22 14:00:00,Premier League,Leicester City FC,Wolverhampton Wanderers FC,FINISHED,0,3
+2024-12-22 14:00:00,Premier League,Manchester United FC,AFC Bournemouth,FINISHED,0,3
+2024-12-22 16:30:00,Premier League,Tottenham Hotspur FC,Liverpool FC,FINISHED,3,6
+2024-12-26 12:30:00,Premier League,Manchester City FC,Everton FC,FINISHED,1,1
+2024-12-26 15:00:00,Premier League,AFC Bournemouth,Crystal Palace FC,FINISHED,0,0
+2024-12-26 15:00:00,Premier League,Chelsea FC,Fulham FC,FINISHED,1,2
+2024-12-26 15:00:00,Premier League,Newcastle United FC,Aston Villa FC,FINISHED,3,0
+2024-12-26 15:00:00,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,FINISHED,1,0
+2024-12-26 15:00:00,Premier League,Southampton FC,West Ham United FC,FINISHED,0,1
+2024-12-26 17:30:00,Premier League,Wolverhampton Wanderers FC,Manchester United FC,FINISHED,2,0
+2024-12-26 20:00:00,Premier League,Liverpool FC,Leicester City FC,FINISHED,3,1
+2024-12-27 19:30:00,Premier League,Brighton & Hove Albion FC,Brentford FC,FINISHED,0,0
+2024-12-27 20:15:00,Premier League,Arsenal FC,Ipswich Town FC,FINISHED,1,0
+2024-12-29 14:30:00,Premier League,Leicester City FC,Manchester City FC,FINISHED,0,2
+2024-12-29 15:00:00,Premier League,Crystal Palace FC,Southampton FC,FINISHED,2,1
+2024-12-29 15:00:00,Premier League,Everton FC,Nottingham Forest FC,FINISHED,0,2
+2024-12-29 15:00:00,Premier League,Fulham FC,AFC Bournemouth,FINISHED,2,2
+2024-12-29 15:00:00,Premier League,Tottenham Hotspur FC,Wolverhampton Wanderers FC,FINISHED,2,2
+2024-12-29 17:15:00,Premier League,West Ham United FC,Liverpool FC,FINISHED,0,5
+2024-12-30 19:45:00,Premier League,Aston Villa FC,Brighton & Hove Albion FC,FINISHED,2,2
+2024-12-30 19:45:00,Premier League,Ipswich Town FC,Chelsea FC,FINISHED,2,0
+2024-12-30 20:00:00,Premier League,Manchester United FC,Newcastle United FC,FINISHED,0,2
+2024-08-15 17:00:00,Primera Division,Athletic Club,Getafe CF,FINISHED,1,1
+2024-08-15 19:30:00,Primera Division,Real Betis Balompié,Girona FC,FINISHED,1,1
+2024-08-16 17:00:00,Primera Division,RC Celta de Vigo,Deportivo Alavés,FINISHED,2,1
+2024-08-16 19:30:00,Primera Division,UD Las Palmas,Sevilla FC,FINISHED,2,2
+2024-08-17 17:00:00,Primera Division,CA Osasuna,CD Leganés,FINISHED,1,1
+2024-08-17 19:30:00,Primera Division,Valencia CF,FC Barcelona,FINISHED,1,2
+2024-08-18 17:00:00,Primera Division,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,FINISHED,1,2
+2024-08-18 19:30:00,Primera Division,RCD Mallorca,Real Madrid CF,FINISHED,1,1
+2024-08-19 17:00:00,Primera Division,Real Valladolid CF,RCD Espanyol de Barcelona,FINISHED,1,0
+2024-08-19 19:30:00,Primera Division,Villarreal CF,Club Atlético de Madrid,FINISHED,2,2
+2024-08-23 17:00:00,Primera Division,RC Celta de Vigo,Valencia CF,FINISHED,3,1
+2024-08-23 19:30:00,Primera Division,Sevilla FC,Villarreal CF,FINISHED,1,2
+2024-08-24 15:00:00,Primera Division,CA Osasuna,RCD Mallorca,FINISHED,1,0
+2024-08-24 17:00:00,Primera Division,FC Barcelona,Athletic Club,FINISHED,2,1
+2024-08-24 19:30:00,Primera Division,Getafe CF,Rayo Vallecano de Madrid,FINISHED,0,0
+2024-08-24 19:30:00,Primera Division,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,FINISHED,0,1
+2024-08-25 15:00:00,Primera Division,Real Madrid CF,Real Valladolid CF,FINISHED,3,0
+2024-08-25 17:00:00,Primera Division,CD Leganés,UD Las Palmas,FINISHED,2,1
+2024-08-25 17:15:00,Primera Division,Deportivo Alavés,Real Betis Balompié,FINISHED,0,0
+2024-08-25 19:30:00,Primera Division,Club Atlético de Madrid,Girona FC,FINISHED,3,0
+2024-08-26 19:30:00,Primera Division,Villarreal CF,RC Celta de Vigo,FINISHED,4,3
+2024-08-27 17:00:00,Primera Division,RCD Mallorca,Sevilla FC,FINISHED,0,0
+2024-08-27 19:30:00,Primera Division,Rayo Vallecano de Madrid,FC Barcelona,FINISHED,1,2
+2024-08-28 17:00:00,Primera Division,Athletic Club,Valencia CF,FINISHED,1,0
+2024-08-28 17:00:00,Primera Division,Real Valladolid CF,CD Leganés,FINISHED,0,0
+2024-08-28 19:30:00,Primera Division,Real Sociedad de Fútbol,Deportivo Alavés,FINISHED,1,2
+2024-08-28 19:30:00,Primera Division,Club Atlético de Madrid,RCD Espanyol de Barcelona,FINISHED,0,0
+2024-08-29 17:00:00,Primera Division,Girona FC,CA Osasuna,FINISHED,4,0
+2024-08-29 19:30:00,Primera Division,UD Las Palmas,Real Madrid CF,FINISHED,1,1
+2024-08-31 15:00:00,Primera Division,FC Barcelona,Real Valladolid CF,FINISHED,7,0
+2024-08-31 17:00:00,Primera Division,Athletic Club,Club Atlético de Madrid,FINISHED,0,1
+2024-08-31 17:15:00,Primera Division,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,FINISHED,2,1
+2024-08-31 19:30:00,Primera Division,CD Leganés,RCD Mallorca,FINISHED,0,1
+2024-08-31 19:30:00,Primera Division,Valencia CF,Villarreal CF,FINISHED,1,1
+2024-09-01 15:00:00,Primera Division,CA Osasuna,RC Celta de Vigo,FINISHED,3,2
+2024-09-01 15:00:00,Primera Division,Deportivo Alavés,UD Las Palmas,FINISHED,2,0
+2024-09-01 17:00:00,Primera Division,Sevilla FC,Girona FC,FINISHED,0,2
+2024-09-01 17:15:00,Primera Division,Getafe CF,Real Sociedad de Fútbol,FINISHED,0,0
+2024-09-01 19:30:00,Primera Division,Real Madrid CF,Real Betis Balompié,FINISHED,2,0
+2024-09-13 19:00:00,Primera Division,Real Betis Balompié,CD Leganés,FINISHED,2,0
+2024-09-14 12:00:00,Primera Division,RCD Mallorca,Villarreal CF,FINISHED,1,2
+2024-09-14 14:15:00,Primera Division,RCD Espanyol de Barcelona,Deportivo Alavés,FINISHED,3,2
+2024-09-14 16:30:00,Primera Division,Sevilla FC,Getafe CF,FINISHED,1,0
+2024-09-14 19:00:00,Primera Division,Real Sociedad de Fútbol,Real Madrid CF,FINISHED,0,2
+2024-09-15 12:00:00,Primera Division,RC Celta de Vigo,Real Valladolid CF,FINISHED,3,1
+2024-09-15 14:15:00,Primera Division,Girona FC,FC Barcelona,FINISHED,1,4
+2024-09-15 16:30:00,Primera Division,UD Las Palmas,Athletic Club,FINISHED,2,3
+2024-09-15 19:00:00,Primera Division,Club Atlético de Madrid,Valencia CF,FINISHED,3,0
+2024-09-16 19:00:00,Primera Division,Rayo Vallecano de Madrid,CA Osasuna,FINISHED,3,1
+2024-09-17 17:00:00,Primera Division,RCD Mallorca,Real Sociedad de Fútbol,FINISHED,1,0
+2024-09-18 17:00:00,Primera Division,Real Betis Balompié,Getafe CF,FINISHED,2,1
+2024-09-19 17:00:00,Primera Division,CD Leganés,Athletic Club,FINISHED,0,2
+2024-09-20 19:00:00,Primera Division,Deportivo Alavés,Sevilla FC,FINISHED,2,1
+2024-09-21 12:00:00,Primera Division,Real Valladolid CF,Real Sociedad de Fútbol,FINISHED,0,0
+2024-09-21 14:15:00,Primera Division,CA Osasuna,UD Las Palmas,FINISHED,2,1
+2024-09-21 16:30:00,Primera Division,Valencia CF,Girona FC,FINISHED,2,0
+2024-09-21 19:00:00,Primera Division,Real Madrid CF,RCD Espanyol de Barcelona,FINISHED,4,1
+2024-09-22 12:00:00,Primera Division,Getafe CF,CD Leganés,FINISHED,1,1
+2024-09-22 14:15:00,Primera Division,Athletic Club,RC Celta de Vigo,FINISHED,3,1
+2024-09-22 16:30:00,Primera Division,Villarreal CF,FC Barcelona,FINISHED,1,5
+2024-09-22 19:00:00,Primera Division,Rayo Vallecano de Madrid,Club Atlético de Madrid,FINISHED,1,1
+2024-09-23 19:00:00,Primera Division,Real Betis Balompié,RCD Mallorca,FINISHED,1,2
+2024-09-24 17:00:00,Primera Division,Sevilla FC,Real Valladolid CF,FINISHED,2,1
+2024-09-24 17:00:00,Primera Division,Valencia CF,CA Osasuna,FINISHED,0,0
+2024-09-24 19:00:00,Primera Division,Real Madrid CF,Deportivo Alavés,FINISHED,3,2
+2024-09-25 17:00:00,Primera Division,Girona FC,Rayo Vallecano de Madrid,FINISHED,0,0
+2024-09-25 19:00:00,Primera Division,FC Barcelona,Getafe CF,FINISHED,1,0
+2024-09-26 17:00:00,Primera Division,UD Las Palmas,Real Betis Balompié,FINISHED,1,1
+2024-09-26 17:00:00,Primera Division,RCD Espanyol de Barcelona,Villarreal CF,FINISHED,1,2
+2024-09-26 19:00:00,Primera Division,RC Celta de Vigo,Club Atlético de Madrid,FINISHED,0,1
+2024-09-27 19:00:00,Primera Division,Real Valladolid CF,RCD Mallorca,FINISHED,1,2
+2024-09-28 12:00:00,Primera Division,Getafe CF,Deportivo Alavés,FINISHED,2,0
+2024-09-28 14:15:00,Primera Division,Rayo Vallecano de Madrid,CD Leganés,FINISHED,1,1
+2024-09-28 16:30:00,Primera Division,Real Sociedad de Fútbol,Valencia CF,FINISHED,3,0
+2024-09-28 19:00:00,Primera Division,CA Osasuna,FC Barcelona,FINISHED,4,2
+2024-09-29 12:00:00,Primera Division,RC Celta de Vigo,Girona FC,FINISHED,1,1
+2024-09-29 14:15:00,Primera Division,Athletic Club,Sevilla FC,FINISHED,1,1
+2024-09-29 16:30:00,Primera Division,Real Betis Balompié,RCD Espanyol de Barcelona,FINISHED,1,0
+2024-09-29 19:00:00,Primera Division,Club Atlético de Madrid,Real Madrid CF,FINISHED,1,1
+2024-09-30 19:00:00,Primera Division,Villarreal CF,UD Las Palmas,FINISHED,3,1
+2024-10-04 19:00:00,Primera Division,CD Leganés,Valencia CF,FINISHED,0,0
+2024-10-05 12:00:00,Primera Division,RCD Espanyol de Barcelona,RCD Mallorca,FINISHED,2,1
+2024-10-05 14:15:00,Primera Division,Getafe CF,CA Osasuna,FINISHED,1,1
+2024-10-05 16:30:00,Primera Division,Real Valladolid CF,Rayo Vallecano de Madrid,FINISHED,1,2
+2024-10-05 16:30:00,Primera Division,UD Las Palmas,RC Celta de Vigo,FINISHED,0,1
+2024-10-05 19:00:00,Primera Division,Real Madrid CF,Villarreal CF,FINISHED,2,0
+2024-10-06 12:00:00,Primera Division,Girona FC,Athletic Club,FINISHED,2,1
+2024-10-06 14:15:00,Primera Division,Deportivo Alavés,FC Barcelona,FINISHED,0,3
+2024-10-06 16:30:00,Primera Division,Sevilla FC,Real Betis Balompié,FINISHED,1,0
+2024-10-06 19:00:00,Primera Division,Real Sociedad de Fútbol,Club Atlético de Madrid,FINISHED,1,1
+2024-10-18 19:00:00,Primera Division,Deportivo Alavés,Real Valladolid CF,FINISHED,2,3
+2024-10-19 12:00:00,Primera Division,Athletic Club,RCD Espanyol de Barcelona,FINISHED,4,1
+2024-10-19 14:15:00,Primera Division,CA Osasuna,Real Betis Balompié,FINISHED,1,2
+2024-10-19 16:30:00,Primera Division,Girona FC,Real Sociedad de Fútbol,FINISHED,0,1
+2024-10-19 19:00:00,Primera Division,RC Celta de Vigo,Real Madrid CF,FINISHED,1,2
+2024-10-20 12:00:00,Primera Division,RCD Mallorca,Rayo Vallecano de Madrid,FINISHED,1,0
+2024-10-20 14:15:00,Primera Division,Club Atlético de Madrid,CD Leganés,FINISHED,3,1
+2024-10-20 16:30:00,Primera Division,Villarreal CF,Getafe CF,FINISHED,1,1
+2024-10-20 19:00:00,Primera Division,FC Barcelona,Sevilla FC,FINISHED,5,1
+2024-10-21 19:00:00,Primera Division,Valencia CF,UD Las Palmas,FINISHED,2,3
+2024-10-25 19:00:00,Primera Division,RCD Espanyol de Barcelona,Sevilla FC,FINISHED,0,2
+2024-10-26 12:00:00,Primera Division,Real Valladolid CF,Villarreal CF,FINISHED,1,2
+2024-10-26 14:15:00,Primera Division,Rayo Vallecano de Madrid,Deportivo Alavés,FINISHED,1,0
+2024-10-26 16:30:00,Primera Division,UD Las Palmas,Girona FC,FINISHED,1,0
+2024-10-26 19:00:00,Primera Division,Real Madrid CF,FC Barcelona,FINISHED,0,4
+2024-10-27 13:00:00,Primera Division,CD Leganés,RC Celta de Vigo,FINISHED,3,0
+2024-10-27 15:15:00,Primera Division,Getafe CF,Valencia CF,FINISHED,1,1
+2024-10-27 17:30:00,Primera Division,Real Betis Balompié,Club Atlético de Madrid,FINISHED,1,0
+2024-10-27 20:00:00,Primera Division,Real Sociedad de Fútbol,CA Osasuna,FINISHED,0,2
+2024-10-28 20:00:00,Primera Division,RCD Mallorca,Athletic Club,FINISHED,0,0
+2024-11-01 20:00:00,Primera Division,Deportivo Alavés,RCD Mallorca,FINISHED,1,0
+2024-11-02 13:00:00,Primera Division,CA Osasuna,Real Valladolid CF,FINISHED,1,0
+2024-11-02 15:15:00,Primera Division,Girona FC,CD Leganés,FINISHED,4,3
+2024-11-03 13:00:00,Primera Division,Club Atlético de Madrid,UD Las Palmas,FINISHED,2,0
+2024-11-03 15:15:00,Primera Division,FC Barcelona,RCD Espanyol de Barcelona,FINISHED,3,1
+2024-11-03 17:30:00,Primera Division,Sevilla FC,Real Sociedad de Fútbol,FINISHED,0,2
+2024-11-03 20:00:00,Primera Division,Athletic Club,Real Betis Balompié,FINISHED,1,1
+2024-11-04 20:00:00,Primera Division,RC Celta de Vigo,Getafe CF,FINISHED,1,0
+2024-11-08 20:00:00,Primera Division,Rayo Vallecano de Madrid,UD Las Palmas,FINISHED,1,3
+2024-11-09 13:00:00,Primera Division,Real Madrid CF,CA Osasuna,FINISHED,4,0
+2024-11-09 15:15:00,Primera Division,Villarreal CF,Deportivo Alavés,FINISHED,3,0
+2024-11-09 20:00:00,Primera Division,CD Leganés,Sevilla FC,FINISHED,1,0
+2024-11-10 13:00:00,Primera Division,Real Betis Balompié,RC Celta de Vigo,FINISHED,2,2
+2024-11-10 15:15:00,Primera Division,RCD Mallorca,Club Atlético de Madrid,FINISHED,0,1
+2024-11-10 17:30:00,Primera Division,Getafe CF,Girona FC,FINISHED,0,1
+2024-11-10 17:30:00,Primera Division,Real Valladolid CF,Athletic Club,FINISHED,1,1
+2024-11-10 20:00:00,Primera Division,Real Sociedad de Fútbol,FC Barcelona,FINISHED,1,0
+2024-11-22 20:00:00,Primera Division,Getafe CF,Real Valladolid CF,FINISHED,2,0
+2024-11-23 13:00:00,Primera Division,Valencia CF,Real Betis Balompié,FINISHED,4,2
+2024-11-23 15:15:00,Primera Division,Club Atlético de Madrid,Deportivo Alavés,FINISHED,2,1
+2024-11-23 17:30:00,Primera Division,UD Las Palmas,RCD Mallorca,FINISHED,2,3
+2024-11-23 17:30:00,Primera Division,Girona FC,RCD Espanyol de Barcelona,FINISHED,4,1
+2024-11-23 20:00:00,Primera Division,RC Celta de Vigo,FC Barcelona,FINISHED,2,2
+2024-11-24 13:00:00,Primera Division,CA Osasuna,Villarreal CF,FINISHED,2,2
+2024-11-24 15:15:00,Primera Division,Sevilla FC,Rayo Vallecano de Madrid,FINISHED,1,0
+2024-11-24 17:30:00,Primera Division,CD Leganés,Real Madrid CF,FINISHED,0,3
+2024-11-24 20:00:00,Primera Division,Athletic Club,Real Sociedad de Fútbol,FINISHED,1,0
+2024-11-29 20:00:00,Primera Division,RCD Mallorca,Valencia CF,FINISHED,2,1
+2024-11-30 13:00:00,Primera Division,FC Barcelona,UD Las Palmas,FINISHED,1,2
+2024-11-30 15:15:00,Primera Division,Deportivo Alavés,CD Leganés,FINISHED,1,1
+2024-11-30 17:30:00,Primera Division,RCD Espanyol de Barcelona,RC Celta de Vigo,FINISHED,3,1
+2024-11-30 20:00:00,Primera Division,Real Valladolid CF,Club Atlético de Madrid,FINISHED,0,5
+2024-12-01 13:00:00,Primera Division,Villarreal CF,Girona FC,FINISHED,2,2
+2024-12-01 15:15:00,Primera Division,Real Madrid CF,Getafe CF,FINISHED,2,0
+2024-12-01 17:30:00,Primera Division,Rayo Vallecano de Madrid,Athletic Club,FINISHED,1,2
+2024-12-01 20:00:00,Primera Division,Real Sociedad de Fútbol,Real Betis Balompié,FINISHED,2,0
+2024-12-02 20:00:00,Primera Division,Sevilla FC,CA Osasuna,FINISHED,1,1
+2024-12-03 18:00:00,Primera Division,RCD Mallorca,FC Barcelona,FINISHED,1,5
+2024-12-04 20:00:00,Primera Division,Athletic Club,Real Madrid CF,FINISHED,2,1
+2024-12-06 20:00:00,Primera Division,RC Celta de Vigo,RCD Mallorca,FINISHED,2,0
+2024-12-07 13:00:00,Primera Division,UD Las Palmas,Real Valladolid CF,FINISHED,2,1
+2024-12-07 15:15:00,Primera Division,Real Betis Balompié,FC Barcelona,FINISHED,2,2
+2024-12-07 17:30:00,Primera Division,Valencia CF,Rayo Vallecano de Madrid,FINISHED,0,1
+2024-12-07 20:00:00,Primera Division,Girona FC,Real Madrid CF,FINISHED,0,3
+2024-12-08 13:00:00,Primera Division,CD Leganés,Real Sociedad de Fútbol,FINISHED,0,3
+2024-12-08 15:15:00,Primera Division,Athletic Club,Villarreal CF,FINISHED,2,0
+2024-12-08 17:30:00,Primera Division,CA Osasuna,Deportivo Alavés,FINISHED,2,2
+2024-12-08 20:00:00,Primera Division,Club Atlético de Madrid,Sevilla FC,FINISHED,4,3
+2024-12-09 20:00:00,Primera Division,Getafe CF,RCD Espanyol de Barcelona,FINISHED,1,0
+2024-12-13 20:00:00,Primera Division,Real Valladolid CF,Valencia CF,FINISHED,1,0
+2024-12-14 13:00:00,Primera Division,RCD Espanyol de Barcelona,CA Osasuna,FINISHED,0,0
+2024-12-14 15:15:00,Primera Division,RCD Mallorca,Girona FC,FINISHED,2,1
+2024-12-14 17:30:00,Primera Division,Sevilla FC,RC Celta de Vigo,FINISHED,1,0
+2024-12-14 20:00:00,Primera Division,Rayo Vallecano de Madrid,Real Madrid CF,FINISHED,3,3
+2024-12-15 13:00:00,Primera Division,Club Atlético de Madrid,Getafe CF,FINISHED,1,0
+2024-12-15 15:15:00,Primera Division,Deportivo Alavés,Athletic Club,FINISHED,1,1
+2024-12-15 17:30:00,Primera Division,Villarreal CF,Real Betis Balompié,FINISHED,1,2
+2024-12-15 17:30:00,Primera Division,Real Sociedad de Fútbol,UD Las Palmas,FINISHED,0,0
+2024-12-15 20:00:00,Primera Division,FC Barcelona,CD Leganés,FINISHED,0,1
+2024-12-18 20:30:00,Primera Division,Villarreal CF,Rayo Vallecano de Madrid,FINISHED,1,1
+2024-12-18 20:30:00,Primera Division,RCD Espanyol de Barcelona,Valencia CF,FINISHED,1,1
+2024-12-20 20:00:00,Primera Division,Girona FC,Real Valladolid CF,FINISHED,3,0
+2024-12-21 13:00:00,Primera Division,Getafe CF,RCD Mallorca,FINISHED,0,1
+2024-12-21 15:15:00,Primera Division,RC Celta de Vigo,Real Sociedad de Fútbol,FINISHED,2,0
+2024-12-21 17:30:00,Primera Division,CA Osasuna,Athletic Club,FINISHED,1,2
+2024-12-21 20:00:00,Primera Division,FC Barcelona,Club Atlético de Madrid,FINISHED,1,2
+2024-12-22 13:00:00,Primera Division,Valencia CF,Deportivo Alavés,FINISHED,2,2
+2024-12-22 15:15:00,Primera Division,Real Madrid CF,Sevilla FC,FINISHED,4,2
+2024-12-22 17:30:00,Primera Division,CD Leganés,Villarreal CF,FINISHED,2,5
+2024-12-22 17:30:00,Primera Division,UD Las Palmas,RCD Espanyol de Barcelona,FINISHED,1,0
+2024-12-22 20:00:00,Primera Division,Real Betis Balompié,Rayo Vallecano de Madrid,FINISHED,1,1
+2024-08-17 16:30:00,Serie A,Genoa CFC,FC Internazionale Milano,FINISHED,2,2
+2024-08-17 16:30:00,Serie A,Parma Calcio 1913,ACF Fiorentina,FINISHED,1,1
+2024-08-17 18:45:00,Serie A,Empoli FC,AC Monza,FINISHED,0,0
+2024-08-17 18:45:00,Serie A,AC Milan,Torino FC,FINISHED,2,2
+2024-08-18 16:30:00,Serie A,Bologna FC 1909,Udinese Calcio,FINISHED,1,1
+2024-08-18 16:30:00,Serie A,Hellas Verona FC,SSC Napoli,FINISHED,3,0
+2024-08-18 18:45:00,Serie A,Cagliari Calcio,AS Roma,FINISHED,0,0
+2024-08-18 18:45:00,Serie A,SS Lazio,Venezia FC,FINISHED,3,1
+2024-08-19 16:30:00,Serie A,US Lecce,Atalanta BC,FINISHED,0,4
+2024-08-19 18:45:00,Serie A,Juventus FC,Como 1907,FINISHED,3,0
+2024-08-24 16:30:00,Serie A,Parma Calcio 1913,AC Milan,FINISHED,2,1
+2024-08-24 16:30:00,Serie A,Udinese Calcio,SS Lazio,FINISHED,2,1
+2024-08-24 18:45:00,Serie A,FC Internazionale Milano,US Lecce,FINISHED,2,0
+2024-08-24 18:45:00,Serie A,AC Monza,Genoa CFC,FINISHED,0,1
+2024-08-25 16:30:00,Serie A,ACF Fiorentina,Venezia FC,FINISHED,0,0
+2024-08-25 16:30:00,Serie A,Torino FC,Atalanta BC,FINISHED,2,1
+2024-08-25 18:45:00,Serie A,SSC Napoli,Bologna FC 1909,FINISHED,3,0
+2024-08-25 18:45:00,Serie A,AS Roma,Empoli FC,FINISHED,1,2
+2024-08-26 16:30:00,Serie A,Cagliari Calcio,Como 1907,FINISHED,1,1
+2024-08-26 18:45:00,Serie A,Hellas Verona FC,Juventus FC,FINISHED,0,3
+2024-08-30 16:30:00,Serie A,Venezia FC,Torino FC,FINISHED,0,1
+2024-08-30 18:45:00,Serie A,FC Internazionale Milano,Atalanta BC,FINISHED,4,0
+2024-08-31 16:30:00,Serie A,Bologna FC 1909,Empoli FC,FINISHED,1,1
+2024-08-31 16:30:00,Serie A,US Lecce,Cagliari Calcio,FINISHED,1,0
+2024-08-31 18:45:00,Serie A,SS Lazio,AC Milan,FINISHED,2,2
+2024-08-31 18:45:00,Serie A,SSC Napoli,Parma Calcio 1913,FINISHED,2,1
+2024-09-01 16:30:00,Serie A,ACF Fiorentina,AC Monza,FINISHED,2,2
+2024-09-01 16:30:00,Serie A,Genoa CFC,Hellas Verona FC,FINISHED,0,2
+2024-09-01 18:45:00,Serie A,Juventus FC,AS Roma,FINISHED,0,0
+2024-09-01 18:45:00,Serie A,Udinese Calcio,Como 1907,FINISHED,1,0
+2024-09-14 13:00:00,Serie A,Como 1907,Bologna FC 1909,FINISHED,2,2
+2024-09-14 16:00:00,Serie A,Empoli FC,Juventus FC,FINISHED,0,0
+2024-09-14 18:45:00,Serie A,AC Milan,Venezia FC,FINISHED,4,0
+2024-09-15 10:30:00,Serie A,Genoa CFC,AS Roma,FINISHED,1,1
+2024-09-15 13:00:00,Serie A,Atalanta BC,ACF Fiorentina,FINISHED,3,2
+2024-09-15 13:00:00,Serie A,Torino FC,US Lecce,FINISHED,0,0
+2024-09-15 16:00:00,Serie A,Cagliari Calcio,SSC Napoli,FINISHED,0,4
+2024-09-15 18:45:00,Serie A,AC Monza,FC Internazionale Milano,FINISHED,1,1
+2024-09-16 16:30:00,Serie A,Parma Calcio 1913,Udinese Calcio,FINISHED,2,3
+2024-09-16 18:45:00,Serie A,SS Lazio,Hellas Verona FC,FINISHED,2,1
+2024-09-20 16:30:00,Serie A,Cagliari Calcio,Empoli FC,FINISHED,0,2
+2024-09-20 18:45:00,Serie A,Hellas Verona FC,Torino FC,FINISHED,2,3
+2024-09-21 13:00:00,Serie A,Venezia FC,Genoa CFC,FINISHED,2,0
+2024-09-21 16:00:00,Serie A,Juventus FC,SSC Napoli,FINISHED,0,0
+2024-09-21 18:45:00,Serie A,US Lecce,Parma Calcio 1913,FINISHED,2,2
+2024-09-22 10:30:00,Serie A,ACF Fiorentina,SS Lazio,FINISHED,2,1
+2024-09-22 13:00:00,Serie A,AC Monza,Bologna FC 1909,FINISHED,1,2
+2024-09-22 16:00:00,Serie A,AS Roma,Udinese Calcio,FINISHED,3,0
+2024-09-22 18:45:00,Serie A,FC Internazionale Milano,AC Milan,FINISHED,1,2
+2024-09-24 18:45:00,Serie A,Atalanta BC,Como 1907,FINISHED,2,3
+2024-09-27 18:45:00,Serie A,AC Milan,US Lecce,FINISHED,3,0
+2024-09-28 13:00:00,Serie A,Udinese Calcio,FC Internazionale Milano,FINISHED,2,3
+2024-09-28 16:00:00,Serie A,Genoa CFC,Juventus FC,FINISHED,0,3
+2024-09-28 18:45:00,Serie A,Bologna FC 1909,Atalanta BC,FINISHED,1,1
+2024-09-29 10:30:00,Serie A,Torino FC,SS Lazio,FINISHED,2,3
+2024-09-29 13:00:00,Serie A,Como 1907,Hellas Verona FC,FINISHED,3,2
+2024-09-29 13:00:00,Serie A,AS Roma,Venezia FC,FINISHED,2,1
+2024-09-29 16:00:00,Serie A,Empoli FC,ACF Fiorentina,FINISHED,0,0
+2024-09-29 18:45:00,Serie A,SSC Napoli,AC Monza,FINISHED,2,0
+2024-09-30 18:45:00,Serie A,Parma Calcio 1913,Cagliari Calcio,FINISHED,2,3
+2024-10-04 16:30:00,Serie A,SSC Napoli,Como 1907,FINISHED,3,1
+2024-10-04 18:45:00,Serie A,Hellas Verona FC,Venezia FC,FINISHED,2,1
+2024-10-05 13:00:00,Serie A,Udinese Calcio,US Lecce,FINISHED,1,0
+2024-10-05 16:00:00,Serie A,Atalanta BC,Genoa CFC,FINISHED,5,1
+2024-10-05 18:45:00,Serie A,FC Internazionale Milano,Torino FC,FINISHED,3,2
+2024-10-06 10:30:00,Serie A,Juventus FC,Cagliari Calcio,FINISHED,1,1
+2024-10-06 13:00:00,Serie A,Bologna FC 1909,Parma Calcio 1913,FINISHED,0,0
+2024-10-06 13:00:00,Serie A,SS Lazio,Empoli FC,FINISHED,2,1
+2024-10-06 16:00:00,Serie A,AC Monza,AS Roma,FINISHED,1,1
+2024-10-06 18:45:00,Serie A,ACF Fiorentina,AC Milan,FINISHED,2,1
+2024-10-19 13:00:00,Serie A,Como 1907,Parma Calcio 1913,FINISHED,1,1
+2024-10-19 13:00:00,Serie A,Genoa CFC,Bologna FC 1909,FINISHED,2,2
+2024-10-19 16:00:00,Serie A,AC Milan,Udinese Calcio,FINISHED,1,0
+2024-10-19 18:45:00,Serie A,Juventus FC,SS Lazio,FINISHED,1,0
+2024-10-20 10:30:00,Serie A,Empoli FC,SSC Napoli,FINISHED,0,1
+2024-10-20 13:00:00,Serie A,US Lecce,ACF Fiorentina,FINISHED,0,6
+2024-10-20 13:00:00,Serie A,Venezia FC,Atalanta BC,FINISHED,0,2
+2024-10-20 16:00:00,Serie A,Cagliari Calcio,Torino FC,FINISHED,3,2
+2024-10-20 18:45:00,Serie A,AS Roma,FC Internazionale Milano,FINISHED,0,1
+2024-10-21 18:45:00,Serie A,Hellas Verona FC,AC Monza,FINISHED,0,3
+2024-10-25 16:30:00,Serie A,Udinese Calcio,Cagliari Calcio,FINISHED,2,0
+2024-10-25 18:45:00,Serie A,Torino FC,Como 1907,FINISHED,1,0
+2024-10-26 13:00:00,Serie A,SSC Napoli,US Lecce,FINISHED,1,0
+2024-10-26 18:45:00,Serie A,Atalanta BC,Hellas Verona FC,FINISHED,6,1
+2024-10-27 11:30:00,Serie A,Parma Calcio 1913,Empoli FC,FINISHED,1,1
+2024-10-27 14:00:00,Serie A,SS Lazio,Genoa CFC,FINISHED,3,0
+2024-10-27 14:00:00,Serie A,AC Monza,Venezia FC,FINISHED,2,2
+2024-10-27 17:00:00,Serie A,FC Internazionale Milano,Juventus FC,FINISHED,4,4
+2024-10-27 19:45:00,Serie A,ACF Fiorentina,AS Roma,FINISHED,5,1
+2024-10-29 17:30:00,Serie A,Cagliari Calcio,Bologna FC 1909,FINISHED,0,2
+2024-10-29 17:30:00,Serie A,US Lecce,Hellas Verona FC,FINISHED,1,0
+2024-10-29 19:45:00,Serie A,AC Milan,SSC Napoli,FINISHED,0,2
+2024-10-30 17:30:00,Serie A,Empoli FC,FC Internazionale Milano,FINISHED,0,3
+2024-10-30 17:30:00,Serie A,Venezia FC,Udinese Calcio,FINISHED,3,2
+2024-10-30 19:45:00,Serie A,Atalanta BC,AC Monza,FINISHED,2,0
+2024-10-30 19:45:00,Serie A,Juventus FC,Parma Calcio 1913,FINISHED,2,2
+2024-10-31 17:30:00,Serie A,Genoa CFC,ACF Fiorentina,FINISHED,0,1
+2024-10-31 19:45:00,Serie A,Como 1907,SS Lazio,FINISHED,1,5
+2024-10-31 19:45:00,Serie A,AS Roma,Torino FC,FINISHED,1,0
+2024-11-02 14:00:00,Serie A,Bologna FC 1909,US Lecce,FINISHED,1,0
+2024-11-02 17:00:00,Serie A,Udinese Calcio,Juventus FC,FINISHED,0,2
+2024-11-02 19:45:00,Serie A,AC Monza,AC Milan,FINISHED,0,1
+2024-11-03 11:30:00,Serie A,SSC Napoli,Atalanta BC,FINISHED,0,3
+2024-11-03 14:00:00,Serie A,Torino FC,ACF Fiorentina,FINISHED,0,1
+2024-11-03 17:00:00,Serie A,Hellas Verona FC,AS Roma,FINISHED,3,2
+2024-11-03 19:45:00,Serie A,FC Internazionale Milano,Venezia FC,FINISHED,1,0
+2024-11-04 17:30:00,Serie A,Empoli FC,Como 1907,FINISHED,1,0
+2024-11-04 17:30:00,Serie A,Parma Calcio 1913,Genoa CFC,FINISHED,0,1
+2024-11-04 19:45:00,Serie A,SS Lazio,Cagliari Calcio,FINISHED,2,1
+2024-11-07 19:45:00,Serie A,Genoa CFC,Como 1907,FINISHED,1,1
+2024-11-08 19:45:00,Serie A,US Lecce,Empoli FC,FINISHED,1,1
+2024-11-09 14:00:00,Serie A,Venezia FC,Parma Calcio 1913,FINISHED,1,2
+2024-11-09 17:00:00,Serie A,Cagliari Calcio,AC Milan,FINISHED,3,3
+2024-11-09 19:45:00,Serie A,Juventus FC,Torino FC,FINISHED,2,0
+2024-11-10 11:30:00,Serie A,Atalanta BC,Udinese Calcio,FINISHED,2,1
+2024-11-10 14:00:00,Serie A,ACF Fiorentina,Hellas Verona FC,FINISHED,3,1
+2024-11-10 14:00:00,Serie A,AS Roma,Bologna FC 1909,FINISHED,2,3
+2024-11-10 17:00:00,Serie A,AC Monza,SS Lazio,FINISHED,0,1
+2024-11-10 19:45:00,Serie A,FC Internazionale Milano,SSC Napoli,FINISHED,1,1
+2024-11-23 14:00:00,Serie A,Hellas Verona FC,FC Internazionale Milano,FINISHED,0,5
+2024-11-23 17:00:00,Serie A,AC Milan,Juventus FC,FINISHED,0,0
+2024-11-23 19:45:00,Serie A,Parma Calcio 1913,Atalanta BC,FINISHED,1,3
+2024-11-24 11:30:00,Serie A,Genoa CFC,Cagliari Calcio,FINISHED,2,2
+2024-11-24 14:00:00,Serie A,Como 1907,ACF Fiorentina,FINISHED,0,2
+2024-11-24 14:00:00,Serie A,Torino FC,AC Monza,FINISHED,1,1
+2024-11-24 17:00:00,Serie A,SSC Napoli,AS Roma,FINISHED,1,0
+2024-11-24 19:45:00,Serie A,SS Lazio,Bologna FC 1909,FINISHED,3,0
+2024-11-25 17:30:00,Serie A,Empoli FC,Udinese Calcio,FINISHED,1,1
+2024-11-25 19:45:00,Serie A,Venezia FC,US Lecce,FINISHED,0,1
+2024-11-29 19:45:00,Serie A,Cagliari Calcio,Hellas Verona FC,FINISHED,1,0
+2024-11-30 14:00:00,Serie A,Como 1907,AC Monza,FINISHED,1,1
+2024-11-30 17:00:00,Serie A,AC Milan,Empoli FC,FINISHED,3,0
+2024-11-30 19:45:00,Serie A,Bologna FC 1909,Venezia FC,FINISHED,3,0
+2024-12-01 11:30:00,Serie A,Udinese Calcio,Genoa CFC,FINISHED,0,2
+2024-12-01 14:00:00,Serie A,Parma Calcio 1913,SS Lazio,FINISHED,3,1
+2024-12-01 14:00:00,Serie A,Torino FC,SSC Napoli,FINISHED,0,1
+2024-12-01 19:45:00,Serie A,US Lecce,Juventus FC,FINISHED,1,1
+2024-12-02 19:45:00,Serie A,AS Roma,Atalanta BC,FINISHED,0,2
+2024-12-06 17:30:00,Serie A,FC Internazionale Milano,Parma Calcio 1913,FINISHED,3,1
+2024-12-06 19:45:00,Serie A,Atalanta BC,AC Milan,FINISHED,2,1
+2024-12-07 14:00:00,Serie A,Genoa CFC,Torino FC,FINISHED,0,0
+2024-12-07 17:00:00,Serie A,Juventus FC,Bologna FC 1909,FINISHED,2,2
+2024-12-07 19:45:00,Serie A,AS Roma,US Lecce,FINISHED,4,1
+2024-12-08 11:30:00,Serie A,ACF Fiorentina,Cagliari Calcio,FINISHED,1,0
+2024-12-08 14:00:00,Serie A,Hellas Verona FC,Empoli FC,FINISHED,1,4
+2024-12-08 17:00:00,Serie A,Venezia FC,Como 1907,FINISHED,2,2
+2024-12-08 19:45:00,Serie A,SSC Napoli,SS Lazio,FINISHED,0,1
+2024-12-09 19:45:00,Serie A,AC Monza,Udinese Calcio,FINISHED,1,2
+2024-12-13 19:45:00,Serie A,Empoli FC,Torino FC,FINISHED,0,1
+2024-12-14 14:00:00,Serie A,Cagliari Calcio,Atalanta BC,FINISHED,0,1
+2024-12-14 17:00:00,Serie A,Udinese Calcio,SSC Napoli,FINISHED,1,3
+2024-12-14 19:45:00,Serie A,Juventus FC,Venezia FC,FINISHED,2,2
+2024-12-15 11:30:00,Serie A,US Lecce,AC Monza,FINISHED,2,1
+2024-12-15 14:00:00,Serie A,Bologna FC 1909,ACF Fiorentina,FINISHED,1,0
+2024-12-15 14:00:00,Serie A,Parma Calcio 1913,Hellas Verona FC,FINISHED,2,3
+2024-12-15 17:00:00,Serie A,Como 1907,AS Roma,FINISHED,2,0
+2024-12-15 19:45:00,Serie A,AC Milan,Genoa CFC,FINISHED,0,0
+2024-12-16 19:45:00,Serie A,SS Lazio,FC Internazionale Milano,FINISHED,0,6
+2024-12-20 19:45:00,Serie A,Hellas Verona FC,AC Milan,FINISHED,0,1
+2024-12-21 14:00:00,Serie A,Torino FC,Bologna FC 1909,FINISHED,0,2
+2024-12-21 17:00:00,Serie A,Genoa CFC,SSC Napoli,FINISHED,1,2
+2024-12-21 19:45:00,Serie A,US Lecce,SS Lazio,FINISHED,1,2
+2024-12-22 11:30:00,Serie A,AS Roma,Parma Calcio 1913,FINISHED,5,0
+2024-12-22 14:00:00,Serie A,Venezia FC,Cagliari Calcio,FINISHED,2,1
+2024-12-22 17:00:00,Serie A,Atalanta BC,Empoli FC,FINISHED,3,2
+2024-12-22 19:45:00,Serie A,AC Monza,Juventus FC,FINISHED,1,2
+2024-12-23 17:30:00,Serie A,ACF Fiorentina,Udinese Calcio,FINISHED,1,2
+2024-12-23 19:45:00,Serie A,FC Internazionale Milano,Como 1907,FINISHED,2,0
+2024-12-28 14:00:00,Serie A,Empoli FC,Genoa CFC,FINISHED,1,2
+2024-12-28 14:00:00,Serie A,Parma Calcio 1913,AC Monza,FINISHED,2,1
+2024-12-28 17:00:00,Serie A,Cagliari Calcio,FC Internazionale Milano,FINISHED,0,3
+2024-12-28 19:45:00,Serie A,SS Lazio,Atalanta BC,FINISHED,1,1
+2024-12-29 11:30:00,Serie A,Udinese Calcio,Torino FC,FINISHED,2,2
+2024-12-29 14:00:00,Serie A,SSC Napoli,Venezia FC,FINISHED,1,0
+2024-12-29 17:00:00,Serie A,Juventus FC,ACF Fiorentina,FINISHED,2,2
+2024-12-29 19:45:00,Serie A,AC Milan,AS Roma,FINISHED,1,1
+2024-12-30 17:30:00,Serie A,Como 1907,US Lecce,FINISHED,2,0
+2024-12-30 19:45:00,Serie A,Bologna FC 1909,Hellas Verona FC,FINISHED,2,3
+2024-08-23 18:30:00,Bundesliga,Borussia Mönchengladbach,Bayer 04 Leverkusen,FINISHED,2,3
+2024-08-24 13:30:00,Bundesliga,RB Leipzig,VfL Bochum 1848,FINISHED,1,0
+2024-08-24 13:30:00,Bundesliga,TSG 1899 Hoffenheim,Holstein Kiel,FINISHED,3,2
+2024-08-24 13:30:00,Bundesliga,SC Freiburg,VfB Stuttgart,FINISHED,3,1
+2024-08-24 13:30:00,Bundesliga,FC Augsburg,SV Werder Bremen,FINISHED,2,2
+2024-08-24 13:30:00,Bundesliga,1. FSV Mainz 05,1. FC Union Berlin,FINISHED,1,1
+2024-08-24 16:30:00,Bundesliga,Borussia Dortmund,Eintracht Frankfurt,FINISHED,2,0
+2024-08-25 13:30:00,Bundesliga,VfL Wolfsburg,FC Bayern München,FINISHED,2,3
+2024-08-25 15:30:00,Bundesliga,FC St. Pauli 1910,1. FC Heidenheim 1846,FINISHED,0,2
+2024-08-30 18:30:00,Bundesliga,1. FC Union Berlin,FC St. Pauli 1910,FINISHED,1,0
+2024-08-31 13:30:00,Bundesliga,VfB Stuttgart,1. FSV Mainz 05,FINISHED,3,3
+2024-08-31 13:30:00,Bundesliga,Eintracht Frankfurt,TSG 1899 Hoffenheim,FINISHED,3,1
+2024-08-31 13:30:00,Bundesliga,SV Werder Bremen,Borussia Dortmund,FINISHED,0,0
+2024-08-31 13:30:00,Bundesliga,VfL Bochum 1848,Borussia Mönchengladbach,FINISHED,0,2
+2024-08-31 13:30:00,Bundesliga,Holstein Kiel,VfL Wolfsburg,FINISHED,0,2
+2024-08-31 16:30:00,Bundesliga,Bayer 04 Leverkusen,RB Leipzig,FINISHED,2,3
+2024-09-01 13:30:00,Bundesliga,1. FC Heidenheim 1846,FC Augsburg,FINISHED,4,0
+2024-09-01 15:30:00,Bundesliga,FC Bayern München,SC Freiburg,FINISHED,2,0
+2024-09-13 18:30:00,Bundesliga,Borussia Dortmund,1. FC Heidenheim 1846,FINISHED,4,2
+2024-09-14 13:30:00,Bundesliga,RB Leipzig,1. FC Union Berlin,FINISHED,0,0
+2024-09-14 13:30:00,Bundesliga,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,FINISHED,1,4
+2024-09-14 13:30:00,Bundesliga,SC Freiburg,VfL Bochum 1848,FINISHED,2,1
+2024-09-14 13:30:00,Bundesliga,VfL Wolfsburg,Eintracht Frankfurt,FINISHED,1,2
+2024-09-14 13:30:00,Bundesliga,Borussia Mönchengladbach,VfB Stuttgart,FINISHED,1,3
+2024-09-14 16:30:00,Bundesliga,Holstein Kiel,FC Bayern München,FINISHED,1,6
+2024-09-15 13:30:00,Bundesliga,FC Augsburg,FC St. Pauli 1910,FINISHED,3,1
+2024-09-15 15:30:00,Bundesliga,1. FSV Mainz 05,SV Werder Bremen,FINISHED,1,2
+2024-09-20 18:30:00,Bundesliga,FC Augsburg,1. FSV Mainz 05,FINISHED,2,3
+2024-09-21 13:30:00,Bundesliga,1. FC Heidenheim 1846,SC Freiburg,FINISHED,0,3
+2024-09-21 13:30:00,Bundesliga,SV Werder Bremen,FC Bayern München,FINISHED,0,5
+2024-09-21 13:30:00,Bundesliga,1. FC Union Berlin,TSG 1899 Hoffenheim,FINISHED,2,1
+2024-09-21 13:30:00,Bundesliga,VfL Bochum 1848,Holstein Kiel,FINISHED,2,2
+2024-09-21 16:30:00,Bundesliga,Eintracht Frankfurt,Borussia Mönchengladbach,FINISHED,2,0
+2024-09-22 13:30:00,Bundesliga,Bayer 04 Leverkusen,VfL Wolfsburg,FINISHED,4,3
+2024-09-22 15:30:00,Bundesliga,VfB Stuttgart,Borussia Dortmund,FINISHED,5,1
+2024-09-22 17:30:00,Bundesliga,FC St. Pauli 1910,RB Leipzig,FINISHED,0,0
+2024-09-27 18:30:00,Bundesliga,Borussia Dortmund,VfL Bochum 1848,FINISHED,4,2
+2024-09-28 13:30:00,Bundesliga,RB Leipzig,FC Augsburg,FINISHED,4,0
+2024-09-28 13:30:00,Bundesliga,SC Freiburg,FC St. Pauli 1910,FINISHED,0,3
+2024-09-28 13:30:00,Bundesliga,VfL Wolfsburg,VfB Stuttgart,FINISHED,2,2
+2024-09-28 13:30:00,Bundesliga,1. FSV Mainz 05,1. FC Heidenheim 1846,FINISHED,0,2
+2024-09-28 13:30:00,Bundesliga,Borussia Mönchengladbach,1. FC Union Berlin,FINISHED,1,0
+2024-09-28 16:30:00,Bundesliga,FC Bayern München,Bayer 04 Leverkusen,FINISHED,1,1
+2024-09-29 13:30:00,Bundesliga,Holstein Kiel,Eintracht Frankfurt,FINISHED,2,4
+2024-09-29 15:30:00,Bundesliga,TSG 1899 Hoffenheim,SV Werder Bremen,FINISHED,3,4
+2024-10-04 18:30:00,Bundesliga,FC Augsburg,Borussia Mönchengladbach,FINISHED,2,1
+2024-10-05 13:30:00,Bundesliga,Bayer 04 Leverkusen,Holstein Kiel,FINISHED,2,2
+2024-10-05 13:30:00,Bundesliga,SV Werder Bremen,SC Freiburg,FINISHED,0,1
+2024-10-05 13:30:00,Bundesliga,1. FC Union Berlin,Borussia Dortmund,FINISHED,2,1
+2024-10-05 13:30:00,Bundesliga,VfL Bochum 1848,VfL Wolfsburg,FINISHED,1,3
+2024-10-05 16:30:00,Bundesliga,FC St. Pauli 1910,1. FSV Mainz 05,FINISHED,0,3
+2024-10-06 13:30:00,Bundesliga,1. FC Heidenheim 1846,RB Leipzig,FINISHED,0,1
+2024-10-06 15:30:00,Bundesliga,Eintracht Frankfurt,FC Bayern München,FINISHED,3,3
+2024-10-06 17:30:00,Bundesliga,VfB Stuttgart,TSG 1899 Hoffenheim,FINISHED,1,1
+2024-10-18 18:30:00,Bundesliga,Borussia Dortmund,FC St. Pauli 1910,FINISHED,2,1
+2024-10-19 13:30:00,Bundesliga,Bayer 04 Leverkusen,Eintracht Frankfurt,FINISHED,2,1
+2024-10-19 13:30:00,Bundesliga,TSG 1899 Hoffenheim,VfL Bochum 1848,FINISHED,3,1
+2024-10-19 13:30:00,Bundesliga,SC Freiburg,FC Augsburg,FINISHED,3,1
+2024-10-19 13:30:00,Bundesliga,1. FSV Mainz 05,RB Leipzig,FINISHED,0,2
+2024-10-19 13:30:00,Bundesliga,Borussia Mönchengladbach,1. FC Heidenheim 1846,FINISHED,3,2
+2024-10-19 16:30:00,Bundesliga,FC Bayern München,VfB Stuttgart,FINISHED,4,0
+2024-10-20 13:30:00,Bundesliga,Holstein Kiel,1. FC Union Berlin,FINISHED,0,2
+2024-10-20 15:30:00,Bundesliga,VfL Wolfsburg,SV Werder Bremen,FINISHED,2,4
+2024-10-25 18:30:00,Bundesliga,1. FSV Mainz 05,Borussia Mönchengladbach,FINISHED,1,1
+2024-10-26 13:30:00,Bundesliga,VfB Stuttgart,Holstein Kiel,FINISHED,2,1
+2024-10-26 13:30:00,Bundesliga,RB Leipzig,SC Freiburg,FINISHED,3,1
+2024-10-26 13:30:00,Bundesliga,FC Augsburg,Borussia Dortmund,FINISHED,2,1
+2024-10-26 13:30:00,Bundesliga,FC St. Pauli 1910,VfL Wolfsburg,FINISHED,0,0
+2024-10-26 16:30:00,Bundesliga,SV Werder Bremen,Bayer 04 Leverkusen,FINISHED,2,2
+2024-10-27 14:30:00,Bundesliga,VfL Bochum 1848,FC Bayern München,FINISHED,0,5
+2024-10-27 16:30:00,Bundesliga,1. FC Union Berlin,Eintracht Frankfurt,FINISHED,1,1
+2024-10-27 18:30:00,Bundesliga,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,FINISHED,0,0
+2024-11-01 19:30:00,Bundesliga,Bayer 04 Leverkusen,VfB Stuttgart,FINISHED,0,0
+2024-11-02 14:30:00,Bundesliga,FC Bayern München,1. FC Union Berlin,FINISHED,3,0
+2024-11-02 14:30:00,Bundesliga,Eintracht Frankfurt,VfL Bochum 1848,FINISHED,7,2
+2024-11-02 14:30:00,Bundesliga,TSG 1899 Hoffenheim,FC St. Pauli 1910,FINISHED,0,2
+2024-11-02 14:30:00,Bundesliga,VfL Wolfsburg,FC Augsburg,FINISHED,1,1
+2024-11-02 14:30:00,Bundesliga,Holstein Kiel,1. FC Heidenheim 1846,FINISHED,1,0
+2024-11-02 17:30:00,Bundesliga,Borussia Dortmund,RB Leipzig,FINISHED,2,1
+2024-11-03 14:30:00,Bundesliga,SC Freiburg,1. FSV Mainz 05,FINISHED,0,0
+2024-11-03 16:30:00,Bundesliga,Borussia Mönchengladbach,SV Werder Bremen,FINISHED,4,1
+2024-11-08 19:30:00,Bundesliga,1. FC Union Berlin,SC Freiburg,FINISHED,0,0
+2024-11-09 14:30:00,Bundesliga,SV Werder Bremen,Holstein Kiel,FINISHED,2,1
+2024-11-09 14:30:00,Bundesliga,1. FSV Mainz 05,Borussia Dortmund,FINISHED,3,1
+2024-11-09 14:30:00,Bundesliga,VfL Bochum 1848,Bayer 04 Leverkusen,FINISHED,1,1
+2024-11-09 14:30:00,Bundesliga,FC St. Pauli 1910,FC Bayern München,FINISHED,0,1
+2024-11-09 17:30:00,Bundesliga,RB Leipzig,Borussia Mönchengladbach,FINISHED,0,0
+2024-11-10 14:30:00,Bundesliga,FC Augsburg,TSG 1899 Hoffenheim,FINISHED,0,0
+2024-11-10 16:30:00,Bundesliga,VfB Stuttgart,Eintracht Frankfurt,FINISHED,2,3
+2024-11-10 18:30:00,Bundesliga,1. FC Heidenheim 1846,VfL Wolfsburg,FINISHED,1,3
+2024-11-22 19:30:00,Bundesliga,FC Bayern München,FC Augsburg,FINISHED,3,0
+2024-11-23 14:30:00,Bundesliga,Bayer 04 Leverkusen,1. FC Heidenheim 1846,FINISHED,5,2
+2024-11-23 14:30:00,Bundesliga,VfB Stuttgart,VfL Bochum 1848,FINISHED,2,0
+2024-11-23 14:30:00,Bundesliga,Borussia Dortmund,SC Freiburg,FINISHED,4,0
+2024-11-23 14:30:00,Bundesliga,TSG 1899 Hoffenheim,RB Leipzig,FINISHED,4,3
+2024-11-23 14:30:00,Bundesliga,VfL Wolfsburg,1. FC Union Berlin,FINISHED,1,0
+2024-11-23 17:30:00,Bundesliga,Eintracht Frankfurt,SV Werder Bremen,FINISHED,1,0
+2024-11-24 14:30:00,Bundesliga,Holstein Kiel,1. FSV Mainz 05,FINISHED,0,3
+2024-11-24 16:30:00,Bundesliga,Borussia Mönchengladbach,FC St. Pauli 1910,FINISHED,2,0
+2024-11-29 19:30:00,Bundesliga,FC St. Pauli 1910,Holstein Kiel,FINISHED,3,1
+2024-11-30 14:30:00,Bundesliga,RB Leipzig,VfL Wolfsburg,FINISHED,1,5
+2024-11-30 14:30:00,Bundesliga,SV Werder Bremen,VfB Stuttgart,FINISHED,2,2
+2024-11-30 14:30:00,Bundesliga,SC Freiburg,Borussia Mönchengladbach,FINISHED,3,1
+2024-11-30 14:30:00,Bundesliga,FC Augsburg,VfL Bochum 1848,FINISHED,1,0
+2024-11-30 14:30:00,Bundesliga,1. FC Union Berlin,Bayer 04 Leverkusen,FINISHED,1,2
+2024-11-30 17:30:00,Bundesliga,Borussia Dortmund,FC Bayern München,FINISHED,1,1
+2024-12-01 14:30:00,Bundesliga,1. FSV Mainz 05,TSG 1899 Hoffenheim,FINISHED,2,0
+2024-12-01 16:30:00,Bundesliga,1. FC Heidenheim 1846,Eintracht Frankfurt,FINISHED,0,4
+2024-12-06 19:30:00,Bundesliga,VfB Stuttgart,1. FC Union Berlin,FINISHED,3,2
+2024-12-07 14:30:00,Bundesliga,Bayer 04 Leverkusen,FC St. Pauli 1910,FINISHED,2,1
+2024-12-07 14:30:00,Bundesliga,FC Bayern München,1. FC Heidenheim 1846,FINISHED,4,2
+2024-12-07 14:30:00,Bundesliga,Eintracht Frankfurt,FC Augsburg,FINISHED,2,2
+2024-12-07 14:30:00,Bundesliga,VfL Bochum 1848,SV Werder Bremen,FINISHED,0,1
+2024-12-07 14:30:00,Bundesliga,Holstein Kiel,RB Leipzig,FINISHED,0,2
+2024-12-07 17:30:00,Bundesliga,Borussia Mönchengladbach,Borussia Dortmund,FINISHED,1,1
+2024-12-08 14:30:00,Bundesliga,VfL Wolfsburg,1. FSV Mainz 05,FINISHED,4,3
+2024-12-08 16:30:00,Bundesliga,TSG 1899 Hoffenheim,SC Freiburg,FINISHED,1,1
+2024-12-13 19:30:00,Bundesliga,SC Freiburg,VfL Wolfsburg,FINISHED,3,2
+2024-12-14 14:30:00,Bundesliga,1. FSV Mainz 05,FC Bayern München,FINISHED,2,1
+2024-12-14 14:30:00,Bundesliga,Borussia Mönchengladbach,Holstein Kiel,FINISHED,4,1
+2024-12-14 14:30:00,Bundesliga,1. FC Union Berlin,VfL Bochum 1848,FINISHED,0,2
+2024-12-14 14:30:00,Bundesliga,FC Augsburg,Bayer 04 Leverkusen,FINISHED,0,2
+2024-12-14 17:30:00,Bundesliga,FC St. Pauli 1910,SV Werder Bremen,FINISHED,0,2
+2024-12-15 14:30:00,Bundesliga,1. FC Heidenheim 1846,VfB Stuttgart,FINISHED,1,3
+2024-12-15 16:30:00,Bundesliga,Borussia Dortmund,TSG 1899 Hoffenheim,FINISHED,1,1
+2024-12-15 18:30:00,Bundesliga,RB Leipzig,Eintracht Frankfurt,FINISHED,2,1
+2024-12-20 19:30:00,Bundesliga,FC Bayern München,RB Leipzig,FINISHED,5,1
+2024-12-21 14:30:00,Bundesliga,VfB Stuttgart,FC St. Pauli 1910,FINISHED,0,1
+2024-12-21 14:30:00,Bundesliga,Eintracht Frankfurt,1. FSV Mainz 05,FINISHED,1,3
+2024-12-21 14:30:00,Bundesliga,TSG 1899 Hoffenheim,Borussia Mönchengladbach,FINISHED,1,2
+2024-12-21 14:30:00,Bundesliga,SV Werder Bremen,1. FC Union Berlin,FINISHED,4,1
+2024-12-21 14:30:00,Bundesliga,Holstein Kiel,FC Augsburg,FINISHED,5,1
+2024-12-21 17:30:00,Bundesliga,Bayer 04 Leverkusen,SC Freiburg,FINISHED,5,1
+2024-12-22 14:30:00,Bundesliga,VfL Bochum 1848,1. FC Heidenheim 1846,FINISHED,2,0
+2024-12-22 16:30:00,Bundesliga,VfL Wolfsburg,Borussia Dortmund,FINISHED,1,3
+2024-08-16 18:45:00,Ligue 1,Le Havre AC,Paris Saint-Germain FC,FINISHED,1,4
+2024-08-17 15:00:00,Ligue 1,Stade Brestois 29,Olympique de Marseille,FINISHED,1,5
+2024-08-17 17:00:00,Ligue 1,Stade de Reims,Lille OSC,FINISHED,0,2
+2024-08-17 19:00:00,Ligue 1,AS Monaco FC,AS Saint-Étienne,FINISHED,1,0
+2024-08-18 13:00:00,Ligue 1,AJ Auxerre,OGC Nice,FINISHED,2,1
+2024-08-18 15:00:00,Ligue 1,Montpellier HSC,RC Strasbourg Alsace,FINISHED,1,1
+2024-08-18 15:00:00,Ligue 1,Toulouse FC,FC Nantes,FINISHED,0,0
+2024-08-18 15:00:00,Ligue 1,Angers SCO,Racing Club de Lens,FINISHED,0,1
+2024-08-18 18:45:00,Ligue 1,Stade Rennais FC 1901,Olympique Lyonnais,FINISHED,3,0
+2024-08-23 18:45:00,Ligue 1,Paris Saint-Germain FC,Montpellier HSC,FINISHED,6,0
+2024-08-24 15:00:00,Ligue 1,Olympique Lyonnais,AS Monaco FC,FINISHED,0,2
+2024-08-24 17:00:00,Ligue 1,Lille OSC,Angers SCO,FINISHED,2,0
+2024-08-24 19:00:00,Ligue 1,AS Saint-Étienne,Le Havre AC,FINISHED,0,2
+2024-08-25 13:00:00,Ligue 1,Racing Club de Lens,Stade Brestois 29,FINISHED,2,0
+2024-08-25 15:00:00,Ligue 1,RC Strasbourg Alsace,Stade Rennais FC 1901,FINISHED,3,1
+2024-08-25 15:00:00,Ligue 1,FC Nantes,AJ Auxerre,FINISHED,2,0
+2024-08-25 15:00:00,Ligue 1,OGC Nice,Toulouse FC,FINISHED,1,1
+2024-08-25 18:45:00,Ligue 1,Olympique de Marseille,Stade de Reims,FINISHED,2,2
+2024-08-30 18:45:00,Ligue 1,Olympique Lyonnais,RC Strasbourg Alsace,FINISHED,4,3
+2024-08-31 15:00:00,Ligue 1,Stade Brestois 29,AS Saint-Étienne,FINISHED,4,0
+2024-08-31 17:00:00,Ligue 1,Montpellier HSC,FC Nantes,FINISHED,1,3
+2024-08-31 19:00:00,Ligue 1,Toulouse FC,Olympique de Marseille,FINISHED,1,3
+2024-09-01 13:00:00,Ligue 1,AS Monaco FC,Racing Club de Lens,FINISHED,1,1
+2024-09-01 15:00:00,Ligue 1,Angers SCO,OGC Nice,FINISHED,1,4
+2024-09-01 15:00:00,Ligue 1,Le Havre AC,AJ Auxerre,FINISHED,3,1
+2024-09-01 15:00:00,Ligue 1,Stade de Reims,Stade Rennais FC 1901,FINISHED,2,1
+2024-09-01 18:45:00,Ligue 1,Lille OSC,Paris Saint-Germain FC,FINISHED,1,3
+2024-09-13 18:45:00,Ligue 1,AS Saint-Étienne,Lille OSC,FINISHED,1,0
+2024-09-14 15:00:00,Ligue 1,Olympique de Marseille,OGC Nice,FINISHED,2,0
+2024-09-14 17:00:00,Ligue 1,AJ Auxerre,AS Monaco FC,FINISHED,0,3
+2024-09-14 19:00:00,Ligue 1,Paris Saint-Germain FC,Stade Brestois 29,FINISHED,3,1
+2024-09-15 13:00:00,Ligue 1,Stade Rennais FC 1901,Montpellier HSC,FINISHED,3,0
+2024-09-15 15:00:00,Ligue 1,FC Nantes,Stade de Reims,FINISHED,1,2
+2024-09-15 15:00:00,Ligue 1,Toulouse FC,Le Havre AC,FINISHED,2,0
+2024-09-15 15:00:00,Ligue 1,RC Strasbourg Alsace,Angers SCO,FINISHED,1,1
+2024-09-15 18:45:00,Ligue 1,Racing Club de Lens,Olympique Lyonnais,FINISHED,0,0
+2024-09-20 18:45:00,Ligue 1,OGC Nice,AS Saint-Étienne,FINISHED,8,0
+2024-09-21 15:00:00,Ligue 1,Lille OSC,RC Strasbourg Alsace,FINISHED,3,3
+2024-09-21 17:00:00,Ligue 1,Stade Rennais FC 1901,Racing Club de Lens,FINISHED,1,1
+2024-09-21 19:00:00,Ligue 1,Stade de Reims,Paris Saint-Germain FC,FINISHED,1,1
+2024-09-22 13:00:00,Ligue 1,AS Monaco FC,Le Havre AC,FINISHED,3,1
+2024-09-22 15:00:00,Ligue 1,Stade Brestois 29,Toulouse FC,FINISHED,2,0
+2024-09-22 15:00:00,Ligue 1,Angers SCO,FC Nantes,FINISHED,1,1
+2024-09-22 15:00:00,Ligue 1,Montpellier HSC,AJ Auxerre,FINISHED,3,2
+2024-09-22 18:45:00,Ligue 1,Olympique Lyonnais,Olympique de Marseille,FINISHED,2,3
+2024-09-27 17:00:00,Ligue 1,AJ Auxerre,Stade Brestois 29,FINISHED,3,0
+2024-09-27 19:00:00,Ligue 1,Paris Saint-Germain FC,Stade Rennais FC 1901,FINISHED,3,1
+2024-09-28 15:00:00,Ligue 1,Racing Club de Lens,OGC Nice,FINISHED,0,0
+2024-09-28 17:00:00,Ligue 1,Le Havre AC,Lille OSC,FINISHED,0,3
+2024-09-28 19:00:00,Ligue 1,AS Monaco FC,Montpellier HSC,FINISHED,2,1
+2024-09-29 13:00:00,Ligue 1,Toulouse FC,Olympique Lyonnais,FINISHED,1,2
+2024-09-29 15:00:00,Ligue 1,FC Nantes,AS Saint-Étienne,FINISHED,2,2
+2024-09-29 15:00:00,Ligue 1,Angers SCO,Stade de Reims,FINISHED,1,3
+2024-09-29 18:45:00,Ligue 1,RC Strasbourg Alsace,Olympique de Marseille,FINISHED,1,0
+2024-10-04 18:45:00,Ligue 1,Olympique de Marseille,Angers SCO,FINISHED,1,1
+2024-10-05 15:00:00,Ligue 1,AS Saint-Étienne,AJ Auxerre,FINISHED,3,1
+2024-10-05 17:00:00,Ligue 1,Lille OSC,Toulouse FC,FINISHED,2,1
+2024-10-05 19:00:00,Ligue 1,Stade Rennais FC 1901,AS Monaco FC,FINISHED,1,2
+2024-10-06 13:00:00,Ligue 1,Olympique Lyonnais,FC Nantes,FINISHED,2,0
+2024-10-06 15:00:00,Ligue 1,Stade Brestois 29,Le Havre AC,FINISHED,2,0
+2024-10-06 15:00:00,Ligue 1,RC Strasbourg Alsace,Racing Club de Lens,FINISHED,2,2
+2024-10-06 15:00:00,Ligue 1,Stade de Reims,Montpellier HSC,FINISHED,4,2
+2024-10-06 18:45:00,Ligue 1,OGC Nice,Paris Saint-Germain FC,FINISHED,1,1
+2024-10-18 18:45:00,Ligue 1,AS Monaco FC,Lille OSC,FINISHED,0,0
+2024-10-19 15:00:00,Ligue 1,Stade Brestois 29,Stade Rennais FC 1901,FINISHED,1,1
+2024-10-19 17:00:00,Ligue 1,AS Saint-Étienne,Racing Club de Lens,FINISHED,0,2
+2024-10-19 19:00:00,Ligue 1,Paris Saint-Germain FC,RC Strasbourg Alsace,FINISHED,4,2
+2024-10-20 13:00:00,Ligue 1,Le Havre AC,Olympique Lyonnais,FINISHED,0,4
+2024-10-20 15:00:00,Ligue 1,AJ Auxerre,Stade de Reims,FINISHED,2,1
+2024-10-20 15:00:00,Ligue 1,Toulouse FC,Angers SCO,FINISHED,1,1
+2024-10-20 15:00:00,Ligue 1,FC Nantes,OGC Nice,FINISHED,1,1
+2024-10-20 18:45:00,Ligue 1,Montpellier HSC,Olympique de Marseille,FINISHED,0,5
+2024-10-25 18:45:00,Ligue 1,Stade Rennais FC 1901,Le Havre AC,FINISHED,1,0
+2024-10-26 15:00:00,Ligue 1,Angers SCO,AS Saint-Étienne,FINISHED,4,2
+2024-10-26 17:00:00,Ligue 1,Stade de Reims,Stade Brestois 29,FINISHED,1,2
+2024-10-26 19:00:00,Ligue 1,Racing Club de Lens,Lille OSC,FINISHED,0,2
+2024-10-27 14:00:00,Ligue 1,Olympique Lyonnais,AJ Auxerre,FINISHED,2,2
+2024-10-27 16:00:00,Ligue 1,OGC Nice,AS Monaco FC,FINISHED,2,1
+2024-10-27 16:00:00,Ligue 1,Montpellier HSC,Toulouse FC,FINISHED,0,3
+2024-10-27 16:00:00,Ligue 1,RC Strasbourg Alsace,FC Nantes,FINISHED,3,1
+2024-10-27 19:45:00,Ligue 1,Olympique de Marseille,Paris Saint-Germain FC,FINISHED,0,3
+2024-11-01 18:00:00,Ligue 1,AS Monaco FC,Angers SCO,FINISHED,0,1
+2024-11-01 20:00:00,Ligue 1,Lille OSC,Olympique Lyonnais,FINISHED,1,1
+2024-11-02 16:00:00,Ligue 1,Paris Saint-Germain FC,Racing Club de Lens,FINISHED,1,0
+2024-11-02 18:00:00,Ligue 1,Stade Brestois 29,OGC Nice,FINISHED,0,1
+2024-11-02 20:00:00,Ligue 1,AS Saint-Étienne,RC Strasbourg Alsace,FINISHED,2,0
+2024-11-03 14:00:00,Ligue 1,Toulouse FC,Stade de Reims,FINISHED,1,0
+2024-11-03 16:00:00,Ligue 1,AJ Auxerre,Stade Rennais FC 1901,FINISHED,4,0
+2024-11-03 16:00:00,Ligue 1,Le Havre AC,Montpellier HSC,FINISHED,1,0
+2024-11-03 19:45:00,Ligue 1,FC Nantes,Olympique de Marseille,FINISHED,1,2
+2024-11-08 19:45:00,Ligue 1,Olympique de Marseille,AJ Auxerre,FINISHED,1,3
+2024-11-09 16:00:00,Ligue 1,RC Strasbourg Alsace,AS Monaco FC,FINISHED,1,3
+2024-11-09 18:00:00,Ligue 1,Racing Club de Lens,FC Nantes,FINISHED,3,2
+2024-11-09 20:00:00,Ligue 1,Angers SCO,Paris Saint-Germain FC,FINISHED,2,4
+2024-11-10 14:00:00,Ligue 1,OGC Nice,Lille OSC,FINISHED,2,2
+2024-11-10 16:00:00,Ligue 1,Montpellier HSC,Stade Brestois 29,FINISHED,3,1
+2024-11-10 16:00:00,Ligue 1,Le Havre AC,Stade de Reims,FINISHED,0,3
+2024-11-10 16:00:00,Ligue 1,Stade Rennais FC 1901,Toulouse FC,FINISHED,0,2
+2024-11-10 19:45:00,Ligue 1,Olympique Lyonnais,AS Saint-Étienne,FINISHED,1,0
+2024-11-22 18:00:00,Ligue 1,AS Monaco FC,Stade Brestois 29,FINISHED,3,2
+2024-11-22 20:00:00,Ligue 1,Paris Saint-Germain FC,Toulouse FC,FINISHED,3,0
+2024-11-23 16:00:00,Ligue 1,Racing Club de Lens,Olympique de Marseille,FINISHED,1,3
+2024-11-23 18:00:00,Ligue 1,AS Saint-Étienne,Montpellier HSC,FINISHED,1,0
+2024-11-23 20:00:00,Ligue 1,Stade de Reims,Olympique Lyonnais,FINISHED,1,1
+2024-11-24 14:00:00,Ligue 1,Lille OSC,Stade Rennais FC 1901,FINISHED,1,0
+2024-11-24 16:00:00,Ligue 1,FC Nantes,Le Havre AC,FINISHED,0,2
+2024-11-24 16:00:00,Ligue 1,AJ Auxerre,Angers SCO,FINISHED,1,0
+2024-11-24 19:45:00,Ligue 1,OGC Nice,RC Strasbourg Alsace,FINISHED,2,1
+2024-11-29 19:45:00,Ligue 1,Stade de Reims,Racing Club de Lens,FINISHED,0,2
+2024-11-30 16:00:00,Ligue 1,Stade Rennais FC 1901,AS Saint-Étienne,FINISHED,5,0
+2024-11-30 18:00:00,Ligue 1,Stade Brestois 29,RC Strasbourg Alsace,FINISHED,3,1
+2024-11-30 20:00:00,Ligue 1,Paris Saint-Germain FC,FC Nantes,FINISHED,1,1
+2024-12-01 14:00:00,Ligue 1,Montpellier HSC,Lille OSC,FINISHED,2,2
+2024-12-01 16:00:00,Ligue 1,Le Havre AC,Angers SCO,FINISHED,0,1
+2024-12-01 16:00:00,Ligue 1,Toulouse FC,AJ Auxerre,FINISHED,2,0
+2024-12-01 16:00:00,Ligue 1,Olympique Lyonnais,OGC Nice,FINISHED,4,1
+2024-12-01 19:45:00,Ligue 1,Olympique de Marseille,AS Monaco FC,FINISHED,2,1
+2024-12-06 18:00:00,Ligue 1,Lille OSC,Stade Brestois 29,FINISHED,3,1
+2024-12-06 20:00:00,Ligue 1,AJ Auxerre,Paris Saint-Germain FC,FINISHED,0,0
+2024-12-07 16:00:00,Ligue 1,AS Monaco FC,Toulouse FC,FINISHED,2,0
+2024-12-07 18:00:00,Ligue 1,OGC Nice,Le Havre AC,FINISHED,2,1
+2024-12-07 20:00:00,Ligue 1,Angers SCO,Olympique Lyonnais,FINISHED,0,3
+2024-12-08 14:00:00,Ligue 1,Racing Club de Lens,Montpellier HSC,FINISHED,2,0
+2024-12-08 16:00:00,Ligue 1,RC Strasbourg Alsace,Stade de Reims,FINISHED,0,0
+2024-12-08 16:00:00,Ligue 1,FC Nantes,Stade Rennais FC 1901,FINISHED,1,0
+2024-12-08 19:45:00,Ligue 1,AS Saint-Étienne,Olympique de Marseille,FINISHED,0,2
+2024-12-13 19:45:00,Ligue 1,Toulouse FC,AS Saint-Étienne,FINISHED,2,1
+2024-12-14 16:00:00,Ligue 1,Olympique de Marseille,Lille OSC,FINISHED,1,1
+2024-12-14 18:00:00,Ligue 1,AJ Auxerre,Racing Club de Lens,FINISHED,2,2
+2024-12-14 20:00:00,Ligue 1,Stade de Reims,AS Monaco FC,FINISHED,0,0
+2024-12-15 14:00:00,Ligue 1,Montpellier HSC,OGC Nice,FINISHED,2,2
+2024-12-15 16:00:00,Ligue 1,Stade Rennais FC 1901,Angers SCO,FINISHED,2,0
+2024-12-15 16:00:00,Ligue 1,Le Havre AC,RC Strasbourg Alsace,FINISHED,0,3
+2024-12-15 16:00:00,Ligue 1,Stade Brestois 29,FC Nantes,FINISHED,4,1
+2024-12-15 19:45:00,Ligue 1,Paris Saint-Germain FC,Olympique Lyonnais,FINISHED,3,1
+2024-12-18 20:00:00,Ligue 1,AS Monaco FC,Paris Saint-Germain FC,FINISHED,2,4
